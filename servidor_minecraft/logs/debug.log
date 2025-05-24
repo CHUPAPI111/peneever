@@ -4484,3 +4484,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 23:19:26.303] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
 [24May2025 23:19:32.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 23:19:32.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 23:21:04.494] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.494] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.494] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.495] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.496] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.496] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.496] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.496] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:04.496] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:09.205] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:09.206] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:09.207] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:09.207] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24May2025 23:21:21.204] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[24May2025 23:23:11.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/149534, l='ServerLevel[world]', x=9283.55, y=112.01, z=2976.86] died, message: 'Fletcher was shot by Pillager'
+[24May2025 23:24:32.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 23:24:32.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 23:25:31.296] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[24May2025 23:25:40.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[24May2025 23:25:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[24May2025 23:29:32.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 23:29:32.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
