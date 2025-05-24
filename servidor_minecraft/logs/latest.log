@@ -1,26 +1,26 @@
-[24May2025 02:16:28.604] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24May2025 02:16:28.609] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[24May2025 02:16:29.093] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24May2025 02:16:29.142] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/peneever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[24May2025 02:16:29.443] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24May2025 02:16:29.445] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24May2025 02:16:29.446] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24May2025 02:16:29.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24May2025 02:16:30.219] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[24May2025 02:16:30.220] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
-[24May2025 02:16:30.698] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
-[24May2025 02:16:30.722] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
-[24May2025 02:16:30.734] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
-[24May2025 02:16:30.745] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/peneever/servidor_minecraft/mods/scripts as it did not exist.
-[24May2025 02:16:30.756] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
-[24May2025 02:16:33.542] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24May2025 02:16:33.850] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[24May2025 02:16:33.851] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24May2025 02:16:33.865] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2903ms
-[24May2025 02:16:33.866] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
-[24May2025 02:16:33.878] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[24May2025 02:16:33.991] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 105 options available, 0 override(s) found
-[24May2025 02:16:34.121] [main/INFO] [Puzzles Lib/]: Loading 60 mods:
+[24May2025 22:08:54.495] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24May2025 22:08:54.498] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[24May2025 22:08:55.428] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24May2025 22:08:55.487] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/peneever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[24May2025 22:08:55.787] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 22:08:55.789] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 22:08:55.790] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 22:08:55.791] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24May2025 22:08:56.438] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24May2025 22:08:56.439] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
+[24May2025 22:08:56.804] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[24May2025 22:08:56.826] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[24May2025 22:08:56.837] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[24May2025 22:08:56.844] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/peneever/servidor_minecraft/mods/scripts as it did not exist.
+[24May2025 22:08:56.851] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[24May2025 22:08:59.435] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24May2025 22:08:59.684] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[24May2025 22:08:59.688] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24May2025 22:08:59.714] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[24May2025 22:08:59.867] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 105 options available, 0 override(s) found
+[24May2025 22:09:00.048] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2991ms
+[24May2025 22:09:00.051] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[24May2025 22:09:00.082] [main/INFO] [Puzzles Lib/]: Loading 60 mods:
 	- ambientsounds 6.0.6
 	- architectury 9.2.14
 	- betteradvancements 0.4.2.10
@@ -82,12 +82,12 @@
 	- watching 1.9.2
 	- weaponmaster_ydm 4.2.3
 	- yungsapi 1.20-Forge-4.0.5
-[24May2025 02:16:34.684] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[24May2025 02:16:35.573] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
-[24May2025 02:16:35.573] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
-[24May2025 02:16:35.730] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[24May2025 02:16:35.730] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[24May2025 02:16:36.196] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[24May2025 22:09:00.668] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[24May2025 22:09:01.580] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[24May2025 22:09:01.580] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
+[24May2025 22:09:01.700] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[24May2025 22:09:01.702] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[24May2025 22:09:02.129] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
@@ -117,58 +117,58 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[24May2025 02:16:36.213] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[24May2025 02:16:41.339] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
-[24May2025 02:16:41.586] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[24May2025 02:16:41.604] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[24May2025 02:16:41.604] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
-[24May2025 02:16:41.630] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[24May2025 02:16:41.667] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
-[24May2025 02:16:41.812] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24May2025 02:16:41.812] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24May2025 02:16:42.054] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
-[24May2025 02:16:42.080] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[24May2025 02:16:42.222] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[24May2025 02:16:42.255] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[24May2025 02:16:42.314] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24May2025 02:16:43.528] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[24May2025 02:16:43.626] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[24May2025 02:16:43.747] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
-[24May2025 02:16:43.901] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[24May2025 02:16:43.901] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[24May2025 02:16:43.903] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[24May2025 02:16:43.904] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[24May2025 02:16:43.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[24May2025 02:16:44.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
-[24May2025 02:16:44.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[24May2025 02:16:44.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[24May2025 02:16:44.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[24May2025 02:16:45.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.5 Target: 1.20.1-1.4.13
-[24May2025 02:16:45.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[24May2025 02:16:45.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[24May2025 02:16:45.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[24May2025 02:16:45.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
-[24May2025 02:16:45.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
-[24May2025 02:16:45.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[24May2025 02:16:45.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[24May2025 02:16:45.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[24May2025 02:16:45.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24May2025 02:16:45.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24May2025 02:16:45.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
-[24May2025 02:16:45.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.9c Target: 5.6.9c+mod
-[24May2025 02:16:45.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
-[24May2025 02:16:46.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
-[24May2025 02:16:46.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[24May2025 02:16:46.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[24May2025 02:16:46.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[24May2025 02:16:46.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 1-v2.1.4 Target: 3.0.3.f+mod
-[24May2025 02:16:46.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[24May2025 02:16:46.202] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24May2025 02:16:46.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.23 Target: 8.1.32
-[24May2025 02:16:47.265] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/peneever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
-[24May2025 02:16:47.266] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/peneever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
-[24May2025 02:16:47.391] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
-[24May2025 02:16:50.957] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+[24May2025 22:09:02.138] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[24May2025 22:09:08.284] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[24May2025 22:09:08.511] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[24May2025 22:09:08.535] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[24May2025 22:09:08.544] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[24May2025 22:09:08.578] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[24May2025 22:09:08.634] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
+[24May2025 22:09:08.767] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24May2025 22:09:08.767] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24May2025 22:09:09.092] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[24May2025 22:09:09.111] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[24May2025 22:09:09.254] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[24May2025 22:09:09.293] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24May2025 22:09:09.360] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24May2025 22:09:10.505] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[24May2025 22:09:10.724] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[24May2025 22:09:10.793] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[24May2025 22:09:10.971] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[24May2025 22:09:10.972] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[24May2025 22:09:10.980] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[24May2025 22:09:10.980] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[24May2025 22:09:11.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[24May2025 22:09:11.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
+[24May2025 22:09:11.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[24May2025 22:09:11.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[24May2025 22:09:11.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[24May2025 22:09:12.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.5 Target: 1.20.1-1.4.13
+[24May2025 22:09:12.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[24May2025 22:09:12.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[24May2025 22:09:12.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[24May2025 22:09:12.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
+[24May2025 22:09:12.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[24May2025 22:09:12.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[24May2025 22:09:13.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24May2025 22:09:13.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[24May2025 22:09:13.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24May2025 22:09:13.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24May2025 22:09:13.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
+[24May2025 22:09:13.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.9c Target: 5.6.9c+mod
+[24May2025 22:09:13.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[24May2025 22:09:13.619] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24May2025 22:09:13.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[24May2025 22:09:13.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[24May2025 22:09:13.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[24May2025 22:09:13.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[24May2025 22:09:13.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 1-v2.1.4 Target: 3.0.3.f+mod
+[24May2025 22:09:13.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24May2025 22:09:13.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.23 Target: 8.1.32
+[24May2025 22:09:14.665] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/peneever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
+[24May2025 22:09:14.666] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/peneever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
+[24May2025 22:09:14.785] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[24May2025 22:09:18.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -197,7 +197,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24May2025 02:16:50.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+[24May2025 22:09:18.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -226,8 +226,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24May2025 02:16:51.062] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[24May2025 02:16:51.069] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[24May2025 22:09:18.558] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[24May2025 22:09:18.564] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -243,372 +243,88 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[24May2025 02:16:51.257] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2353 advancements
-[24May2025 02:16:51.273] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[24May2025 02:16:51.279] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[24May2025 02:16:51.281] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
-[24May2025 02:16:51.328] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
-[24May2025 02:16:52.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24May2025 02:16:52.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24May2025 02:16:52.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24May2025 02:16:52.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24May2025 02:16:52.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24May2025 02:16:52.368] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24May2025 02:16:52.455] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24May2025 02:16:52.455] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24May2025 02:16:52.456] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24May2025 02:16:52.456] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24May2025 02:16:52.479] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[24May2025 02:16:52.480] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[24May2025 02:16:52.481] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
-[24May2025 02:16:52.482] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[24May2025 02:16:52.485] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[24May2025 02:16:52.486] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[24May2025 02:16:52.488] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[24May2025 02:16:52.492] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[24May2025 02:16:52.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24May2025 02:16:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24May2025 02:17:04.667] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.672] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.677] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.681] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.681] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.683] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 02:17:04.968] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[24May2025 02:17:05.469] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[24May2025 02:17:05.659] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6192 ms
-[24May2025 02:17:05.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.190s)! For help, type "help"
-[24May2025 02:17:05.693] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24May2025 02:17:05.697] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
-[24May2025 02:19:57.205] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[24May2025 02:19:57.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:52400] logged in with entity id 8213 at (1757.4206216084572, 66.875, 836.150176810001)
-[24May2025 02:19:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
-[24May2025 02:20:04.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6840ms or 136 ticks behind
-[24May2025 02:40:44.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Timed out
-[24May2025 02:40:44.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
-[24May2025 02:45:50.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:52580] logged in with entity id 41137 at (1889.8733026610498, 66.0, 847.8695052618822)
-[24May2025 02:45:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
-[24May2025 02:47:33.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:60004] logged in with entity id 44180 at (1883.4522200091678, 64.0, 832.3990745381891)
-[24May2025 02:47:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
-[24May2025 02:48:09.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
-[24May2025 02:48:09.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
-[24May2025 03:01:25.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:61320] logged in with entity id 56393 at (1885.436425179413, 65.67647087614428, 850.2347577564776)
-[24May2025 03:01:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
-[24May2025 03:07:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Worsening Nightmares]
-[24May2025 03:07:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Night Sky Stalkers]
-[24May2025 03:17:15.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:57243] logged in with entity id 81114 at (1575.2585207845743, 49.0625, 2607.6710640187785)
-[24May2025 03:17:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
-[24May2025 03:19:04.290] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
-[24May2025 03:19:04.292] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
-[24May2025 03:19:04.292] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
-[24May2025 03:19:37.527] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
-[24May2025 03:19:37.528] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
-[24May2025 03:20:27.610] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:27.611] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:27.611] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:27.611] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:44.291] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:44.291] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:44.292] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:44.292] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:46.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1993, y=69, z=994} BlockPos{x=1994, y=68, z=994}
-[24May2025 03:20:49.172] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:49.173] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:49.173] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:49.173] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:20:52.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
-[24May2025 03:20:52.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -9.981881538619973,1.2491870787446828,2.100435494262342
-[24May2025 03:20:52.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 6.074059541526594,-0.7967356006687112,7.955508607166394
-[24May2025 03:21:33.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
-[24May2025 03:21:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
-[24May2025 03:21:33.465] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 absolute--16 absolute]
-[24May2025 03:24:23.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:57336] logged in with entity id 95324 at (1915.678976878491, 121.5, 2763.5739310539675)
-[24May2025 03:24:23.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
-[24May2025 03:25:55.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:26:13.970] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.128] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.129] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.129] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.130] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.130] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.133] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.133] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.134] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.139] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.139] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.140] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.140] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.140] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.140] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.141] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:26:14.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[24May2025 03:26:17.726] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
-[24May2025 03:26:32.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:27:24.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:27:27.434] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=101, z=385}
-[24May2025 03:27:27.532] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=101, z=385}
-[24May2025 03:27:41.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[24May2025 03:28:36.588] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
-[24May2025 03:28:36.728] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
-[24May2025 03:28:36.729] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
-[24May2025 03:28:36.729] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
-[24May2025 03:28:36.729] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
-[24May2025 03:28:48.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/100843, l='ServerLevel[world]', x=1949.30, y=209.01, z=2990.70] died: Dinnerbone was shot by bhp240
-[24May2025 03:32:28.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101516, l='ServerLevel[world]', x=1978.86, y=111.01, z=2972.53] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:32:30.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101515, l='ServerLevel[world]', x=1978.30, y=111.01, z=2973.62] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:34:31.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101456, l='ServerLevel[world]', x=1953.23, y=119.01, z=2973.99] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:34:35.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/111478, l='ServerLevel[world]', x=1958.07, y=119.01, z=2971.30] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:34:36.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/102260, l='ServerLevel[world]', x=1955.63, y=119.01, z=2972.33] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:34:38.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101455, l='ServerLevel[world]', x=1953.40, y=119.01, z=2972.54] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:34:54.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/102259, l='ServerLevel[world]', x=1955.70, y=119.01, z=2979.70] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:35:31.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/111136, l='ServerLevel[world]', x=1984.70, y=119.01, z=2991.96] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:35:39.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101499, l='ServerLevel[world]', x=1978.82, y=119.01, z=2992.70] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:35:41.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/101498, l='ServerLevel[world]', x=1975.01, y=119.01, z=2992.70] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:36:29.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/113023, l='ServerLevel[world]', x=1976.10, y=119.01, z=2990.73] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:36:34.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/111289, l='ServerLevel[world]', x=1969.97, y=119.01, z=2987.99] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:36:50.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/113068, l='ServerLevel[world]', x=1949.30, y=127.01, z=2992.70] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:37:36.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/111864, l='ServerLevel[world]', x=1967.84, y=127.01, z=2978.66] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:37:38.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/112377, l='ServerLevel[world]', x=1969.22, y=127.01, z=2973.90] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:37:54.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/112375, l='ServerLevel[world]', x=1969.19, y=127.01, z=2971.75] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:38:00.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/112378, l='ServerLevel[world]', x=1964.30, y=127.01, z=2976.10] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:38:04.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/113543, l='ServerLevel[world]', x=1969.59, y=127.01, z=2975.88] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:38:05.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/112532, l='ServerLevel[world]', x=1965.84, y=127.01, z=2972.40] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:38:10.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/113542, l='ServerLevel[world]', x=1968.72, y=127.01, z=2971.60] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:39:02.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/112966, l='ServerLevel[world]', x=1974.43, y=135.01, z=2963.42] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:42:12.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/114863, l='ServerLevel[world]', x=1960.73, y=143.01, z=2991.86] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:42:15.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/113307, l='ServerLevel[world]', x=1954.36, y=143.01, z=2989.03] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:44:26.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/124304, l='ServerLevel[world]', x=1959.55, y=143.01, z=2971.31] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:44:29.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/115305, l='ServerLevel[world]', x=1952.46, y=143.01, z=2974.21] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:45:21.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
-[24May2025 03:45:21.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
-[24May2025 03:45:23.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DodiWo> duerman
-[24May2025 03:45:27.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
-[24May2025 03:45:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
-[24May2025 03:45:39.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:60175] logged in with entity id 125231 at (1883.3463333346044, 65.0, 854.6999999880791)
-[24May2025 03:45:39.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
-[24May2025 03:45:42.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fc02f90[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:57607) lost connection: Disconnected
-[24May2025 03:45:46.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:57618] logged in with entity id 125243 at (1965.7897372522511, 147.0, 2981.797413430283)
-[24May2025 03:45:46.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
-[24May2025 03:49:05.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128575, l='ServerLevel[world]', x=1958.70, y=167.01, z=2968.02] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:49:15.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128661, l='ServerLevel[world]', x=1960.69, y=167.01, z=2978.08] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:49:21.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128373, l='ServerLevel[world]', x=1960.20, y=167.01, z=2979.59] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:50:30.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[24May2025 03:50:57.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 03:51:21.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[24May2025 03:51:51.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:52:08.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
-[24May2025 03:52:20.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130007, l='ServerLevel[world]', x=1953.66, y=175.01, z=2975.24] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:52:37.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[24May2025 03:52:47.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/129943, l='ServerLevel[world]', x=1979.77, y=175.01, z=2983.31] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:52:47.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/129941, l='ServerLevel[world]', x=1975.20, y=175.01, z=2985.10] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:52:54.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[24May2025 03:53:12.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 03:53:29.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[24May2025 03:53:52.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:54:34.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[24May2025 03:54:52.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/139890, l='ServerLevel[world]', x=1959.18, y=183.01, z=2972.81] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:54:55.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[24May2025 03:54:56.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130450, l='ServerLevel[world]', x=1959.89, y=183.01, z=2971.40] died: Dinnerbone was shot by Dinnerbone
-[24May2025 03:55:12.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[24May2025 03:55:32.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4414ms or 88 ticks behind
-[24May2025 03:55:49.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[24May2025 03:56:06.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
-[24May2025 03:56:36.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[24May2025 03:57:00.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 03:57:22.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:57:43.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 03:58:00.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[24May2025 03:58:19.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 03:58:43.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 03:59:01.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2981ms or 59 ticks behind
-[24May2025 03:59:36.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[24May2025 03:59:44.131] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:59:44.131] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:59:44.131] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:59:44.131] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 03:59:54.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
-[24May2025 04:00:04.405] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:04.405] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:04.405] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:04.406] [Worker-Main-64/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:12.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3292ms or 65 ticks behind
-[24May2025 04:00:28.798] [Worker-Main-37/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
-[24May2025 04:00:28.810] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[24May2025 04:00:28.811] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[24May2025 04:00:28.811] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[24May2025 04:00:28.811] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[24May2025 04:00:28.811] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[24May2025 04:00:28.868] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[24May2025 04:00:28.869] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[24May2025 04:00:28.869] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[24May2025 04:00:29.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[24May2025 04:00:31.076] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
-[24May2025 04:00:31.076] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
-[24May2025 04:00:31.085] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[24May2025 04:00:31.086] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[24May2025 04:00:31.086] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[24May2025 04:00:31.086] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[24May2025 04:00:31.086] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[24May2025 04:00:31.087] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[24May2025 04:00:31.087] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[24May2025 04:00:31.210] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
-[24May2025 04:00:31.210] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
-[24May2025 04:00:31.226] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[24May2025 04:00:31.226] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[24May2025 04:00:31.226] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[24May2025 04:00:31.227] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[24May2025 04:00:31.227] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[24May2025 04:00:33.089] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:33.090] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:33.090] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:33.090] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:00:48.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
-[24May2025 04:00:51.116] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=99, z=1251}
-[24May2025 04:00:51.116] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=101, z=1251}
-[24May2025 04:00:51.116] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=100, z=1251}
-[24May2025 04:01:05.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[24May2025 04:01:31.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[24May2025 04:01:41.933] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:01:41.933] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:01:41.934] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:01:41.934] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:02:00.779] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=108, z=424}
-[24May2025 04:02:00.779] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=108, z=424}
-[24May2025 04:02:01.675] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=99, z=1251}
-[24May2025 04:02:01.675] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=100, z=1251}
-[24May2025 04:02:01.675] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=101, z=1251}
-[24May2025 04:02:01.675] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=101, z=1251}
-[24May2025 04:02:01.676] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=100, z=1251}
-[24May2025 04:02:01.676] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=99, z=1251}
-[24May2025 04:02:15.569] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=108, z=424}
-[24May2025 04:02:15.569] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=108, z=424}
-[24May2025 04:02:36.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[24May2025 04:02:58.568] [Worker-Main-38/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
-[24May2025 04:03:31.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amaroxplay> 1893 66 854
-[24May2025 04:03:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Mysterious Power]
-[24May2025 04:04:14.731] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/155964, l='ServerLevel[world]', x=229.66, y=34.00, z=139.71] died: Toxic Slime fell from a high place
-[24May2025 04:04:14.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 04:04:20.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Toxic Personality]
-[24May2025 04:04:23.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/155963, l='ServerLevel[world]', x=237.54, y=31.00, z=90.20] died: Toxic Slime fell from a high place
-[24May2025 04:04:25.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/155962, l='ServerLevel[world]', x=237.27, y=35.56, z=118.74] died: Toxic Slime was slain by Iron Golem
-[24May2025 04:04:28.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/155877, l='ServerLevel[world]', x=232.16, y=37.00, z=117.77] died: Toxic Slime fell from a high place
-[24May2025 04:04:31.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 04:04:49.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
-[24May2025 04:05:07.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2687ms or 53 ticks behind
-[24May2025 04:05:15.165] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
-[24May2025 04:05:15.166] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
-[24May2025 04:05:15.166] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
-[24May2025 04:05:15.166] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
-[24May2025 04:05:15.195] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
-[24May2025 04:05:24.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
-[24May2025 04:05:26.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/157599, l='ServerLevel[world]', x=238.97, y=38.18, z=125.57] died: Toxic Slime was slain by Iron Golem
-[24May2025 04:05:29.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -7.2221833133774,-3.0146178540372404,-6.794499935561362
-[24May2025 04:05:29.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -10.038734194246814,0.12129684053919476,0.5007220562835926
-[24May2025 04:05:43.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4292ms or 85 ticks behind
-[24May2025 04:05:52.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/157819, l='ServerLevel[world]', x=158.69, y=33.00, z=166.92] died: Toxic Slime was slain by amaroxplay
-[24May2025 04:06:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Pocket Edition Alpha]
-[24May2025 04:06:29.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[24May2025 04:06:47.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
-[24May2025 04:06:49.503] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=108, z=424}
-[24May2025 04:06:49.503] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=108, z=424}
-[24May2025 04:07:06.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3980ms or 79 ticks behind
-[24May2025 04:07:08.768] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=99, z=1251}
-[24May2025 04:07:08.768] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=100, z=1251}
-[24May2025 04:07:08.768] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=101, z=1251}
-[24May2025 04:07:08.768] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=101, z=1251}
-[24May2025 04:07:08.768] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=100, z=1251}
-[24May2025 04:07:08.769] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=99, z=1251}
-[24May2025 04:07:08.880] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=99, z=1251}
-[24May2025 04:07:08.880] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=101, z=1251}
-[24May2025 04:07:08.880] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=100, z=1251}
-[24May2025 04:07:21.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/157718, l='ServerLevel[world]', x=240.25, y=38.07, z=127.76] died: Toxic Slime was slain by Iron Golem
-[24May2025 04:07:25.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
-[24May2025 04:07:29.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/155593, l='ServerLevel[world]', x=233.34, y=31.55, z=137.41] died, message: 'Villager tried to swim in lava'
-[24May2025 04:07:37.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/157720, l='ServerLevel[world]', x=236.19, y=38.55, z=126.53] died: Toxic Slime was slain by Iron Golem
-[24May2025 04:07:44.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
-[24May2025 04:08:00.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/157598, l='ServerLevel[world]', x=168.22, y=31.00, z=110.79] died: Toxic Slime fell from a high place
-[24May2025 04:08:03.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3789ms or 75 ticks behind
-[24May2025 04:08:17.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/158175, l='ServerLevel[world]', x=237.34, y=31.81, z=135.56] died: Toxic Slime was slain by Iron Golem
-[24May2025 04:08:21.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[24May2025 04:08:38.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
-[24May2025 04:08:47.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/159108, l='ServerLevel[world]', x=239.16, y=37.32, z=128.55] died: Toxic Slime was slain by Iron Golem
-[24May2025 04:08:56.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24May2025 04:08:59.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/159913, l='ServerLevel[world]', x=237.52, y=38.00, z=163.91] died: Toxic Slime fell from a high place
-[24May2025 04:09:17.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[24May2025 04:09:32.811] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=-6, z=458}
-[24May2025 04:09:32.812] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=182, y=-6, z=460}
-[24May2025 04:09:32.812] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-6, z=458}
-[24May2025 04:09:36.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4820ms or 96 ticks behind
-[24May2025 04:09:40.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/160159, l='ServerLevel[world]', x=151.74, y=32.00, z=185.59] died: Toxic Slime fell from a high place
-[24May2025 04:10:52.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[24May2025 04:11:10.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3357ms or 67 ticks behind
-[24May2025 04:11:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Into Fire]
-[24May2025 04:11:59.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[24May2025 04:12:23.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24May2025 04:13:01.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
-[24May2025 04:13:16.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Spooky Scary Skeleton]
-[24May2025 04:13:23.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[24May2025 04:13:32.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/161820, l='ServerLevel[world]', x=118.11, y=33.00, z=163.59] died: Toxic Slime fell from a high place
-[24May2025 04:15:53.429] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
-[24May2025 04:15:53.431] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
-[24May2025 04:15:54.120] [Worker-Main-64/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
-[24May2025 04:15:57.956] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
-[24May2025 04:15:57.956] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
-[24May2025 04:15:57.956] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
-[24May2025 04:15:57.957] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
-[24May2025 04:16:17.923] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.923] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.923] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.923] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.923] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.924] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.924] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.924] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.928] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.929] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.929] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.930] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:17.931] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.916] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.939] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.942] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.943] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.947] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.951] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.952] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.954] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.955] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.955] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:16:18.966] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[24May2025 04:19:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Weakened]
-[24May2025 04:19:13.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Corrupted Enderman'/172870, l='ServerLevel[world]', x=1884.41, y=71.05, z=853.47] died: Corrupted Enderman was killed whilst fighting amaroxplay
-[24May2025 04:20:23.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
-[24May2025 04:20:23.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
-[24May2025 04:39:46.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
-[24May2025 04:39:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
-[24May2025 04:52:40.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
-[24May2025 04:52:40.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
-[24May2025 04:53:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[24May2025 04:53:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[24May2025 04:53:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[24May2025 04:53:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[24May2025 04:53:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[24May2025 04:53:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[24May2025 04:53:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[24May2025 04:53:04.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[24May2025 04:53:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24May2025 04:53:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[24May2025 04:53:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[24May2025 04:53:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24May2025 04:53:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24May2025 22:09:18.749] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2353 advancements
+[24May2025 22:09:18.769] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[24May2025 22:09:18.775] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24May2025 22:09:18.777] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[24May2025 22:09:18.805] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[24May2025 22:09:19.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24May2025 22:09:19.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24May2025 22:09:19.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24May2025 22:09:19.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24May2025 22:09:19.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24May2025 22:09:19.725] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24May2025 22:09:19.799] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24May2025 22:09:19.800] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24May2025 22:09:19.800] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24May2025 22:09:19.800] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24May2025 22:09:19.821] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[24May2025 22:09:19.822] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[24May2025 22:09:19.823] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[24May2025 22:09:19.823] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[24May2025 22:09:19.824] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[24May2025 22:09:19.824] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[24May2025 22:09:19.827] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[24May2025 22:09:19.829] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[24May2025 22:09:19.831] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[24May2025 22:09:19.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24May2025 22:09:20.540] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24May2025 22:09:26.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24May2025 22:09:27.360] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24May2025 22:09:30.432] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.449] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.463] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.474] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.485] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.501] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.521] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:30.589] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:31.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:31.411] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:32.441] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:32.445] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 22:09:32.905] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[24May2025 22:09:33.408] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6503 ms
+[24May2025 22:09:33.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.597s)! For help, type "help"
+[24May2025 22:09:33.444] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24May2025 22:09:33.448] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[24May2025 22:09:36.759] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[24May2025 22:09:36.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:56270] logged in with entity id 9504 at (1944.8043456764588, 65.0, 828.3619317769401)
+[24May2025 22:09:36.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[24May2025 22:09:44.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7244ms or 144 ticks behind
+[24May2025 22:10:27.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:55827] logged in with entity id 11564 at (1789.264969365078, 67.0, 911.4055970459016)
+[24May2025 22:10:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[24May2025 22:10:43.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:53072] logged in with entity id 12010 at (1870.300000011921, 65.5625, 854.6999999880791)
+[24May2025 22:10:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[24May2025 22:15:41.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Worsening Nightmares]
+[24May2025 22:16:50.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of amaroxplay) moved wrongly! 0.7636316215317598
+[24May2025 22:16:50.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of amaroxplay) moved wrongly! 0.8045392703434453
+[24May2025 22:16:50.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of amaroxplay) moved wrongly! 0.836366905487157
+[24May2025 22:16:50.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of amaroxplay) moved wrongly! 0.8600169126984396
+[24May2025 22:16:50.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of amaroxplay) moved wrongly! 0.8763053628740072
+[24May2025 22:16:51.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of amaroxplay) moved wrongly! 0.8859692777234344
+[24May2025 22:20:02.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24May2025 22:20:19.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[24May2025 22:20:28.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[24May2025 22:20:29.140] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[24May2025 22:20:29.141] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[24May2025 22:20:29.141] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[24May2025 22:20:29.142] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[24May2025 22:20:37.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[24May2025 22:20:40.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Corrupted]
+[24May2025 22:20:55.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
+[24May2025 22:21:16.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24May2025 22:21:34.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24May2025 22:21:55.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[24May2025 22:22:13.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[24May2025 22:22:43.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24May2025 22:22:46.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Corrupted Enderman'/28538, l='ServerLevel[world]', x=1865.36, y=86.89, z=863.80] died: Corrupted Enderman was killed whilst fighting DodiWo
+[24May2025 22:23:21.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24May2025 22:25:05.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[24May2025 22:25:54.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1934, y=66, z=878} BlockPos{x=1935, y=65, z=877}
+[24May2025 22:26:14.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24May2025 22:26:51.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[24May2025 22:28:15.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24May2025 22:28:25.889] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[24May2025 22:28:25.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[24May2025 22:28:32.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
