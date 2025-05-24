@@ -63,6 +63,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-30 00:30:48 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-30 01:10:18 +0000",
+      "minecraft:mushroom_fields": "2025-05-24 23:06:15 +0000",
       "minecraft:taiga": "2025-04-30 01:11:05 +0000",
       "minecraft:deep_ocean": "2025-05-09 19:54:51 +0000",
       "minecraft:frozen_river": "2025-05-09 18:27:36 +0000",
@@ -73,6 +74,7 @@
       "minecraft:lukewarm_ocean": "2025-04-30 00:53:50 +0000",
       "minecraft:river": "2025-04-30 00:49:25 +0000",
       "minecraft:stony_shore": "2025-04-30 00:04:16 +0000",
+      "minecraft:snowy_plains": "2025-05-24 23:08:18 +0000",
       "minecraft:dripstone_caves": "2025-05-16 00:52:43 +0000",
       "minecraft:snowy_taiga": "2025-05-24 22:45:12 +0000",
       "minecraft:grove": "2025-04-30 00:07:55 +0000",
@@ -4331,9 +4333,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-05-24 23:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-05-24 22:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-24 22:59:12 +0000"
     },
     "done": true
   },
