@@ -79,11 +79,13 @@
       "minecraft:dripstone_caves": "2025-05-01 02:04:51 +0000",
       "minecraft:grove": "2025-04-30 00:07:14 +0000",
       "minecraft:swamp": "2025-05-27 20:49:14 +0000",
+      "minecraft:jagged_peaks": "2025-05-27 21:48:49 +0000",
       "minecraft:cold_ocean": "2025-05-01 03:33:58 +0000",
       "minecraft:forest": "2025-04-30 00:49:09 +0000",
       "minecraft:lush_caves": "2025-04-30 00:43:04 +0000",
       "minecraft:deep_cold_ocean": "2025-05-24 22:48:08 +0000",
       "minecraft:ocean": "2025-04-30 00:43:15 +0000",
+      "minecraft:jungle": "2025-05-27 22:17:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-30 00:07:17 +0000",
       "minecraft:windswept_savanna": "2025-05-24 22:57:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-30 00:04:44 +0000",
@@ -787,6 +789,7 @@
       "minecraft:piglin_brute": "2025-05-25 00:38:59 +0000",
       "minecraft:creeper": "2025-05-01 02:55:17 +0000",
       "minecraft:slime": "2025-05-24 04:05:52 +0000",
+      "minecraft:evoker": "2025-05-27 21:24:03 +0000",
       "minecraft:phantom": "2025-05-24 03:07:16 +0000",
       "minecraft:zombified_piglin": "2025-05-09 18:19:51 +0000",
       "minecraft:witch": "2025-04-30 00:12:56 +0000",
@@ -794,6 +797,7 @@
       "minecraft:husk": "2025-05-24 22:32:48 +0000",
       "minecraft:cave_spider": "2025-05-01 02:06:34 +0000",
       "minecraft:enderman": "2025-05-09 18:18:39 +0000",
+      "minecraft:vex": "2025-05-27 21:24:33 +0000",
       "minecraft:zombie": "2025-05-01 01:53:38 +0000",
       "minecraft:drowned": "2025-05-01 01:53:37 +0000"
     },
@@ -2435,6 +2439,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-05-27 21:24:03 +0000",
       "killed_illusioner": "2025-05-01 03:42:33 +0000"
     },
     "done": false
@@ -3387,6 +3392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-27 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-27 21:09:24 +0000"
@@ -3405,6 +3416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-27 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
@@ -3417,6 +3434,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-05-27 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-05-27 21:09:24 +0000"
@@ -3426,6 +3449,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-27 21:25:32 +0000"
     },
     "done": true
   },
@@ -3450,6 +3479,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-27 22:08:17 +0000"
     },
     "done": true
   },
