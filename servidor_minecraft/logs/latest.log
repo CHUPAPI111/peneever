@@ -1351,3 +1351,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27May2025 23:01:45.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
 [27May2025 23:02:55.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [27May2025 23:04:43.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[27May2025 23:07:48.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[27May2025 23:08:10.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/257076, l='ServerLevel[world]', x=8747.55, y=203.50, z=-944.29] died: Gearling fell from a high place
+[27May2025 23:08:10.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7592ms or 151 ticks behind
+[27May2025 23:08:12.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[27May2025 23:08:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[27May2025 23:08:18.993] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b79c6cf[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65486) lost connection: Disconnected
+[27May2025 23:08:24.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:65496] logged in with entity id 257578 at (8731.705676513702, 212.0, -944.3192124558605)
+[27May2025 23:08:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[27May2025 23:09:19.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[27May2025 23:09:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[27May2025 23:09:58.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:65524] logged in with entity id 262151 at (8696.699999988079, 212.0, -946.9487752990024)
+[27May2025 23:09:58.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[27May2025 23:10:06.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[27May2025 23:10:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[27May2025 23:10:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27May2025 23:10:19.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27May2025 23:10:19.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Server closed
+[27May2025 23:10:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[27May2025 23:10:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27May2025 23:10:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27May2025 23:10:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27May2025 23:10:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27May2025 23:10:22.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[27May2025 23:10:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27May2025 23:10:23.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27May2025 23:10:23.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27May2025 23:10:23.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[27May2025 23:10:23.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
