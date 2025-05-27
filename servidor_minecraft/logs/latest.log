@@ -1333,3 +1333,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27May2025 22:55:21.878] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31bf8c8f[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65308) lost connection: Disconnected
 [27May2025 22:55:26.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:65326] logged in with entity id 231028 at (8752.912337880509, 240.5, -905.5527276279307)
 [27May2025 22:55:26.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[27May2025 22:57:18.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[27May2025 22:58:06.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[27May2025 22:58:06.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[27May2025 22:58:12.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:65367] logged in with entity id 233424 at (8749.897106710985, 258.0, -894.3662755986777)
+[27May2025 22:58:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[27May2025 22:58:44.997] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[27May2025 22:58:44.998] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[27May2025 22:59:13.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[27May2025 22:59:13.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[27May2025 23:00:06.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[27May2025 23:00:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[27May2025 23:00:18.943] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54c6f8dd[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65406) lost connection: Disconnected
+[27May2025 23:00:42.181] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24b9f34[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65416) lost connection: Disconnected
+[27May2025 23:00:46.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:65427] logged in with entity id 237503 at (8753.773073948543, 276.0, -901.059457996654)
+[27May2025 23:00:46.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[27May2025 23:01:45.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[27May2025 23:02:55.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27May2025 23:04:43.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind

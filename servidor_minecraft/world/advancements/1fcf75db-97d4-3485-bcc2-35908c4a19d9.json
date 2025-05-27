@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-27 22:58:28 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-24 23:03:12 +0000",
       "minecraft:taiga": "2025-05-24 22:17:15 +0000",
       "minecraft:deep_ocean": "2025-04-30 00:43:26 +0000",
@@ -77,6 +78,7 @@
       "minecraft:lukewarm_ocean": "2025-04-30 00:45:24 +0000",
       "minecraft:river": "2025-04-30 00:49:04 +0000",
       "minecraft:stony_shore": "2025-04-30 00:42:49 +0000",
+      "minecraft:snowy_plains": "2025-05-27 22:58:35 +0000",
       "minecraft:dripstone_caves": "2025-05-01 02:04:51 +0000",
       "minecraft:grove": "2025-04-30 00:07:14 +0000",
       "minecraft:swamp": "2025-05-27 20:49:14 +0000",
@@ -3378,6 +3380,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:57:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-27 22:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-05-27 21:10:35 +0000"
@@ -3387,6 +3401,18 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-05-27 21:08:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-27 22:58:49 +0000"
     },
     "done": true
   },
@@ -3411,6 +3437,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-27 22:58:49 +0000"
     },
     "done": true
   },
@@ -3462,9 +3494,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-05-27 23:00:35 +0000"
     },
     "done": true
   },
@@ -3483,6 +3527,18 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-05-27 22:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-27 22:57:03 +0000"
     },
     "done": true
   },
@@ -3513,6 +3569,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-27 22:58:49 +0000"
     },
     "done": true
   },
