@@ -65,12 +65,20 @@
       "minecraft:taiga": "2025-05-24 22:17:15 +0000",
       "minecraft:deep_ocean": "2025-04-30 00:43:26 +0000",
       "minecraft:frozen_river": "2025-05-24 22:20:53 +0000",
+      "minecraft:cherry_grove": "2025-05-27 20:50:17 +0000",
+      "minecraft:badlands": "2025-05-27 20:52:11 +0000",
+      "minecraft:savanna_plateau": "2025-05-27 20:50:32 +0000",
       "minecraft:beach": "2025-04-30 00:46:49 +0000",
+      "minecraft:dark_forest": "2025-05-27 20:58:58 +0000",
+      "minecraft:stony_peaks": "2025-05-27 20:53:48 +0000",
+      "minecraft:mangrove_swamp": "2025-05-27 20:50:33 +0000",
+      "minecraft:sparse_jungle": "2025-05-27 20:57:01 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 00:45:24 +0000",
       "minecraft:river": "2025-04-30 00:49:04 +0000",
       "minecraft:stony_shore": "2025-04-30 00:42:49 +0000",
       "minecraft:dripstone_caves": "2025-05-01 02:04:51 +0000",
       "minecraft:grove": "2025-04-30 00:07:14 +0000",
+      "minecraft:swamp": "2025-05-27 20:49:14 +0000",
       "minecraft:cold_ocean": "2025-05-01 03:33:58 +0000",
       "minecraft:forest": "2025-04-30 00:49:09 +0000",
       "minecraft:lush_caves": "2025-04-30 00:43:04 +0000",
@@ -79,6 +87,8 @@
       "minecraft:old_growth_spruce_taiga": "2025-04-30 00:07:17 +0000",
       "minecraft:windswept_savanna": "2025-05-24 22:57:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-30 00:04:44 +0000",
+      "minecraft:meadow": "2025-05-27 20:50:29 +0000",
+      "minecraft:savanna": "2025-05-27 20:51:19 +0000",
       "minecraft:plains": "2025-04-30 00:45:44 +0000"
     },
     "done": false
@@ -3293,94 +3303,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-25 00:41:32 +0000",
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 00:41:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-05-25 00:41:53 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-05-25 00:38:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
-      "has_red_terracotta": "2025-05-25 00:40:17 +0000"
+      "has_sweet_berries": "2025-05-25 00:38:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-05-25 00:38:57 +0000"
     },
     "done": true
   },
@@ -3402,12 +3339,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_mushroom_house": {
-    "criteria": {
-      "location0": "2025-05-25 00:38:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-25 00:39:16 +0000"
@@ -3420,15 +3351,129 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-05-25 00:38:55 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-05-25 00:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-25 00:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-25 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-27 21:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-27 21:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-27 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 21:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-27 21:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-27 21:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-05-27 21:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 21:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-27 21:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-27 21:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-27 20:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-27 21:03:03 +0000"
     },
     "done": true
   },
