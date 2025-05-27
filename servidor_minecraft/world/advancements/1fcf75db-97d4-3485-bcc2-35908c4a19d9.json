@@ -66,6 +66,7 @@
       "minecraft:deep_ocean": "2025-04-30 00:43:26 +0000",
       "minecraft:frozen_river": "2025-05-24 22:20:53 +0000",
       "minecraft:cherry_grove": "2025-05-27 20:50:17 +0000",
+      "minecraft:sunflower_plains": "2025-05-27 22:33:32 +0000",
       "minecraft:badlands": "2025-05-27 20:52:11 +0000",
       "minecraft:savanna_plateau": "2025-05-27 20:50:32 +0000",
       "minecraft:beach": "2025-04-30 00:46:49 +0000",
@@ -84,10 +85,13 @@
       "minecraft:forest": "2025-04-30 00:49:09 +0000",
       "minecraft:lush_caves": "2025-04-30 00:43:04 +0000",
       "minecraft:deep_cold_ocean": "2025-05-24 22:48:08 +0000",
+      "minecraft:frozen_ocean": "2025-05-27 22:51:21 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-27 22:51:20 +0000",
       "minecraft:ocean": "2025-04-30 00:43:15 +0000",
       "minecraft:jungle": "2025-05-27 22:17:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-30 00:07:17 +0000",
       "minecraft:windswept_savanna": "2025-05-24 22:57:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-27 22:46:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-30 00:04:44 +0000",
       "minecraft:meadow": "2025-05-27 20:50:29 +0000",
       "minecraft:savanna": "2025-05-27 20:51:19 +0000",
@@ -3485,6 +3489,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-05-27 22:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-27 22:36:15 +0000"
     },
     "done": true
   },
