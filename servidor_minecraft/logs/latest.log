@@ -590,3 +590,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 02:48:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
 [28May2025 02:49:42.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
 [28May2025 02:49:42.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[28May2025 02:50:17.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:3487] logged in with entity id 232365 at (1802.300000011921, 29.012519654278176, -720.668527217667)
+[28May2025 02:50:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[28May2025 02:54:20.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=91, z=-786} BlockPos{x=1755, y=90, z=-785}
+[28May2025 02:54:20.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=91, z=-786} BlockPos{x=1755, y=90, z=-785}
+[28May2025 02:54:20.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=91, z=-786} BlockPos{x=1755, y=90, z=-785}
+[28May2025 02:54:23.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1749, y=92, z=-794} BlockPos{x=1751, y=91, z=-793}
+[28May2025 02:54:23.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1749, y=92, z=-794} BlockPos{x=1751, y=91, z=-793}
+[28May2025 02:54:26.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1743, y=92, z=-801} BlockPos{x=1741, y=90, z=-802}
+[28May2025 02:54:26.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1743, y=92, z=-801} BlockPos{x=1741, y=90, z=-802}
+[28May2025 02:54:26.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1743, y=92, z=-801} BlockPos{x=1741, y=90, z=-802}
+[28May2025 02:54:26.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1743, y=92, z=-801} BlockPos{x=1741, y=90, z=-802}
+[28May2025 02:54:26.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1739, y=92, z=-803} BlockPos{x=1740, y=91, z=-802}
+[28May2025 02:54:26.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1739, y=92, z=-803} BlockPos{x=1740, y=91, z=-802}
+[28May2025 02:54:27.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1739, y=92, z=-803} BlockPos{x=1740, y=91, z=-802}
+[28May2025 02:54:50.896] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1960, y=25, z=-1169} but found not block entity block Block{minecraft:air} at location
+[28May2025 02:54:50.896] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1960, y=25, z=-1169}
+[28May2025 02:54:55.437] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:54:55.736] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:54:57.234] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 646 ms
+[28May2025 02:56:32.089] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:56:52.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1676, y=163, z=-1098} BlockPos{x=1676, y=163, z=-1097}
+[28May2025 02:57:27.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1673, y=162, z=-1120} BlockPos{x=1672, y=160, z=-1121}
+[28May2025 02:57:27.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1673, y=162, z=-1120} BlockPos{x=1672, y=160, z=-1121}
+[28May2025 02:57:27.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1671, y=161, z=-1119} BlockPos{x=1672, y=160, z=-1120}
+[28May2025 02:57:45.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1665, y=161, z=-1125} BlockPos{x=1665, y=160, z=-1124}
+[28May2025 02:57:46.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1665, y=161, z=-1125} BlockPos{x=1665, y=160, z=-1124}
+[28May2025 02:58:06.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Sky's the Limit]
+[28May2025 02:59:35.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Local Brewery]

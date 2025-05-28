@@ -3713,6 +3713,12 @@
     },
     "done": true
   },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-05-28 02:47:24 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/hallowed_armor": {
     "criteria": {
       "requirement3": "2025-05-28 02:26:46 +0000"
@@ -3728,6 +3734,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-05-28 02:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-28 02:47:24 +0000"
     },
     "done": true
   },
@@ -3758,6 +3770,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-05-28 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-05-28 02:47:24 +0000"
     },
     "done": true
   },
