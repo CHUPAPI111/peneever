@@ -4630,5 +4630,41 @@
     },
     "done": true
   },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-05-28 02:13:07 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-05-28 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-28 02:13:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-05-28 02:14:42 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-05-28 02:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-28 02:13:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

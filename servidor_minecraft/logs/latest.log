@@ -490,3 +490,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 01:41:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Postmortal]
 [28May2025 01:44:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo fell from a high place
 [28May2025 01:46:49.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Serious Dedication]
+[28May2025 02:10:10.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Eye Spy]
+[28May2025 02:10:10.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Eye Spy]
+[28May2025 02:13:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Journey's End]
+[28May2025 02:13:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Journey's End]
+[28May2025 02:13:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Journey's End]
+[28May2025 02:13:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [The End?]
+[28May2025 02:13:23.223] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[28May2025 02:13:23.224] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[28May2025 02:13:25.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
+[28May2025 02:13:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [The End?]
+[28May2025 02:13:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The End?]
+[28May2025 02:14:42.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Sacrificial Ritual]
+[28May2025 02:14:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Sacrificial Ritual]
+[28May2025 02:14:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Sacrificial Ritual]
+[28May2025 02:15:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Final Showdown]
+[28May2025 02:15:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Final Showdown]
+[28May2025 02:15:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Final Showdown]
+[28May2025 02:17:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Together In The Dark]
+[28May2025 02:17:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Together In The Dark]
+[28May2025 02:17:32.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Together In The Dark]
+[28May2025 02:19:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Phantom Slayer]
+[28May2025 02:19:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Phantom Slayer]
+[28May2025 02:19:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Phantom Slayer]
+[28May2025 02:19:30.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Phantom Swarm'/172515, l='ServerLevel[world]', x=-23.80, y=68.90, z=-12.45] died: Phantom Swarm was killed

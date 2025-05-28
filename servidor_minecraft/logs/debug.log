@@ -4098,3 +4098,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 01:58:44.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
 [28May2025 01:58:44.165] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {com.tiviacz.travelersbackpack.inventory.CraftingContainerImproved@71287d9c=InventoryMapping{i=com.tiviacz.travelersbackpack.inventory.CraftingContainerImproved@71287d9c, c=com.tiviacz.travelersbackpack.inventory.menu.TravelersBackpackItemMenu@342a2525, b=64, e=72}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.TravelersBackpackItemMenu@342a2525, b=73, e=99}, net.minecraft.world.inventory.ResultContainer@5e681ba2=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@5e681ba2, c=com.tiviacz.travelersbackpack.inventory.menu.TravelersBackpackItemMenu@342a2525, b=0, e=0}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.TravelersBackpackItemMenu@342a2525, b=100, e=108}}
 [28May2025 01:58:44.165] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
+[28May2025 02:02:12.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:02:12.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:07:12.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:07:12.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:10:10.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Eye Spy]
+[28May2025 02:10:10.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Eye Spy]
+[28May2025 02:12:12.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:12:12.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:13:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Journey's End]
+[28May2025 02:13:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Journey's End]
+[28May2025 02:13:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Journey's End]
+[28May2025 02:13:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [The End?]
+[28May2025 02:13:23.223] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[28May2025 02:13:23.224] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[28May2025 02:13:25.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
+[28May2025 02:13:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [The End?]
+[28May2025 02:13:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The End?]
+[28May2025 02:14:42.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Sacrificial Ritual]
+[28May2025 02:14:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Sacrificial Ritual]
+[28May2025 02:14:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Sacrificial Ritual]
+[28May2025 02:15:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Final Showdown]
+[28May2025 02:15:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Final Showdown]
+[28May2025 02:15:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Final Showdown]
+[28May2025 02:17:19.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:17:19.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:17:24.516] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 14
+[28May2025 02:17:24.517] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@1ce43982=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@1ce43982, c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@7eb35e5d=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@7eb35e5d, c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=45, e=45}}
+[28May2025 02:17:24.517] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=9, e=35}
+[28May2025 02:17:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Together In The Dark]
+[28May2025 02:17:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Together In The Dark]
+[28May2025 02:17:32.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Together In The Dark]
+[28May2025 02:19:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Phantom Slayer]
+[28May2025 02:19:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Phantom Slayer]
+[28May2025 02:19:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Phantom Slayer]
+[28May2025 02:19:30.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Phantom Swarm'/172515, l='ServerLevel[world]', x=-23.80, y=68.90, z=-12.45] died: Phantom Swarm was killed
