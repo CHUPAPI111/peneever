@@ -4133,3 +4133,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 02:19:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Phantom Slayer]
 [28May2025 02:19:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Phantom Slayer]
 [28May2025 02:19:30.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Phantom Swarm'/172515, l='ServerLevel[world]', x=-23.80, y=68.90, z=-12.45] died: Phantom Swarm was killed
+[28May2025 02:20:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Free the End]
+[28May2025 02:20:28.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Free the End]
+[28May2025 02:20:28.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Free the End]
+[28May2025 02:22:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [The Next Generation]
+[28May2025 02:22:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Disassembly]
+[28May2025 02:22:16.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [The Next Generation]
+[28May2025 02:22:19.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:22:19.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:22:59.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Phantom Swarm'/186069, l='ServerLevel[world]', x=3.35, y=94.51, z=3.10] died: Phantom Swarm was killed whilst fighting amaroxplay
+[28May2025 02:23:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Dragonborn]
+[28May2025 02:25:48.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Remote Getaway]
+[28May2025 02:25:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Remote Getaway]
+[28May2025 02:25:51.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Remote Getaway]
+[28May2025 02:25:51.957] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 15 ms
+[28May2025 02:25:52.871] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=374, y=140, z=78}
+[28May2025 02:25:52.871] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=380, y=140, z=72}
+[28May2025 02:25:52.873] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=380, y=140, z=84}
+[28May2025 02:25:52.878] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=386, y=140, z=78}
+[28May2025 02:26:20.485] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 97 ms
+[28May2025 02:26:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [The City at the End of the Game]
+[28May2025 02:27:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [This Block Moves!]
+[28May2025 02:27:08.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Who's The Thief Now]
+[28May2025 02:27:19.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:27:19.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:28:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The City at the End of the Game]
+[28May2025 02:28:34.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [This Block Moves!]
+[28May2025 02:28:42.846] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 19
+[28May2025 02:28:42.846] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@1ce43982=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@1ce43982, c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@7eb35e5d=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@7eb35e5d, c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=45, e=45}}
+[28May2025 02:28:42.846] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=9, e=35}
+[28May2025 02:28:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [The City at the End of the Game]
+[28May2025 02:28:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [This Block Moves!]

@@ -802,6 +802,7 @@
       "minecraft:witch": "2025-04-30 00:12:56 +0000",
       "minecraft:wither_skeleton": "2025-05-01 03:08:57 +0000",
       "minecraft:husk": "2025-05-24 22:32:48 +0000",
+      "minecraft:shulker": "2025-05-28 02:27:04 +0000",
       "minecraft:cave_spider": "2025-05-01 02:06:34 +0000",
       "minecraft:enderman": "2025-05-09 18:18:39 +0000",
       "minecraft:vex": "2025-05-27 21:24:33 +0000",
@@ -2561,7 +2562,8 @@
   },
   "1_splatus:ultris/completed": {
     "criteria": {
-      "corrupted_enderman": "2025-05-09 19:09:07 +0000"
+      "corrupted_enderman": "2025-05-09 19:09:07 +0000",
+      "phantom_swarm": "2025-05-28 02:19:20 +0000"
     },
     "done": false
   },
@@ -3311,7 +3313,7 @@
   },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "requirement": "2025-05-24 23:23:09 +0000"
+      "requirement": "2025-05-28 02:18:07 +0000"
     },
     "done": true
   },
@@ -3585,6 +3587,24 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-05-28 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:22:59 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/journeys_end": {
     "criteria": {
       "activate_portal": "2025-05-28 02:13:07 +0000"
@@ -3597,9 +3617,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-28 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
+    "criteria": {
+      "requirement": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/phantom_fight2": {
+    "criteria": {
+      "c1": "2025-05-28 02:19:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-05-28 02:27:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2025-05-28 02:27:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/ender_insignia": {
+    "criteria": {
+      "requirement": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-05-28 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement": "2025-05-28 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/phantom_fight": {
+    "criteria": {
+      "c1": "2025-05-28 02:17:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-05-28 02:26:46 +0000"
     },
     "done": true
   },
@@ -3615,9 +3701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-28 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-28 02:20:32 +0000"
     },
     "done": true
   },
@@ -3627,11 +3725,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-05-28 02:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-28 01:51:38 +0000"
     },
     "done": true
+  },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "end_wilds": "2025-05-28 02:26:35 +0000",
+      "ender_waste": "2025-05-28 02:26:36 +0000"
+    },
+    "done": false
   },
   "stellarity:dragons_den/final_showdown": {
     "criteria": {
@@ -3639,9 +3750,63 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_tamaris": {
+    "criteria": {
+      "requirement": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-05-28 01:18:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/disassembly": {
+    "criteria": {
+      "requirement": "2025-05-28 02:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-28 02:25:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_ender_insignia": {
+    "criteria": {
+      "requirement": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-28 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement": "2025-05-28 02:27:12 +0000"
     },
     "done": true
   },
@@ -3654,6 +3819,30 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-05-28 02:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/zephyr": {
+    "criteria": {
+      "requirement": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-05-28 02:26:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/tamaris": {
+    "criteria": {
+      "requirement": "2025-05-28 02:20:32 +0000"
     },
     "done": true
   },
@@ -3672,6 +3861,18 @@
   "1_splatus:ultris/phantom": {
     "criteria": {
       "c1": "2025-05-28 02:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-28 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:22:59 +0000"
     },
     "done": true
   },

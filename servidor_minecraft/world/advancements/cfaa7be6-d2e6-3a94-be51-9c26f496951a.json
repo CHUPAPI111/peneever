@@ -572,6 +572,8 @@
       "minecraft:zombified_piglin": "2025-05-24 02:24:06 +0000",
       "minecraft:witch": "2025-04-30 00:17:22 +0000",
       "minecraft:wither_skeleton": "2025-05-02 02:42:19 +0000",
+      "minecraft:husk": "2025-05-28 02:26:32 +0000",
+      "minecraft:ender_dragon": "2025-05-28 02:20:19 +0000",
       "minecraft:cave_spider": "2025-05-01 15:59:55 +0000",
       "minecraft:piglin": "2025-05-02 02:51:51 +0000",
       "minecraft:enderman": "2025-05-01 19:59:23 +0000",
@@ -2981,7 +2983,8 @@
   },
   "1_splatus:ultris/completed": {
     "criteria": {
-      "corrupted_enderman": "2025-05-24 04:19:09 +0000"
+      "corrupted_enderman": "2025-05-24 04:19:09 +0000",
+      "phantom_swarm": "2025-05-28 02:19:20 +0000"
     },
     "done": false
   },
@@ -3005,7 +3008,7 @@
   },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "requirement": "2025-05-27 23:35:33 +0000"
+      "requirement": "2025-05-28 02:19:14 +0000"
     },
     "done": true
   },
@@ -3225,9 +3228,21 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-05-28 02:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-28 01:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-28 02:22:16 +0000"
     },
     "done": true
   },
@@ -3261,9 +3276,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-28 02:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-28 01:11:19 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/dragonblade": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
     },
     "done": true
   },
@@ -3273,9 +3300,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_egg": "2025-05-28 02:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-28 01:11:19 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/phantom_fight2": {
+    "criteria": {
+      "c1": "2025-05-28 02:19:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/ender_insignia": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
     },
     "done": true
   },
@@ -3294,6 +3339,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-28 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/phantom_fight": {
+    "criteria": {
+      "c1": "2025-05-28 02:17:32 +0000"
     },
     "done": true
   },
@@ -3327,6 +3378,13 @@
     },
     "done": true
   },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "end_wilds": "2025-05-28 02:26:52 +0000",
+      "ender_waste": "2025-05-28 02:26:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-28 02:12:14 +0000"
@@ -3351,15 +3409,39 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_tamaris": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-28 01:11:19 +0000"
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-28 02:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-28 02:11:37 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_ender_insignia": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_crest_of_the_end": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
     },
     "done": true
   },
@@ -3405,6 +3487,12 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/tamaris": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/sacrificial_ritual": {
     "criteria": {
       "requirement": "2025-05-28 02:14:42 +0000"
@@ -3432,6 +3520,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-28 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/crest_of_the_end": {
+    "criteria": {
+      "requirement2": "2025-05-28 02:20:19 +0000"
     },
     "done": true
   },
