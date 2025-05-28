@@ -4164,3 +4164,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 02:28:42.846] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6d63e693, b=9, e=35}
 [28May2025 02:28:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [The City at the End of the Game]
 [28May2025 02:28:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [This Block Moves!]
+[28May2025 02:30:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Who's The Thief Now]
+[28May2025 02:30:44.387] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:31:26.887] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:31:30.940] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:31:45.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1915, y=25, z=309} but found not block entity block Block{minecraft:air} at location
+[28May2025 02:31:45.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1915, y=25, z=309}
+[28May2025 02:32:19.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:32:19.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:32:24.887] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:32:30.839] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:32:32.588] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:37:19.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:37:19.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:37:24.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1755, y=100, z=-118} BlockPos{x=1757, y=100, z=-119}
+[28May2025 02:37:24.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1755, y=100, z=-118} BlockPos{x=1757, y=100, z=-119}
+[28May2025 02:37:24.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1755, y=100, z=-118} BlockPos{x=1757, y=100, z=-119}
+[28May2025 02:37:24.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1755, y=100, z=-118} BlockPos{x=1757, y=100, z=-119}
+[28May2025 02:37:25.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1755, y=100, z=-118} BlockPos{x=1757, y=100, z=-119}
+[28May2025 02:37:25.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1755, y=100, z=-118} BlockPos{x=1757, y=100, z=-119}
+[28May2025 02:37:29.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1758, y=100, z=-120} BlockPos{x=1759, y=100, z=-118}
+[28May2025 02:37:29.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1758, y=100, z=-120} BlockPos{x=1759, y=100, z=-118}
+[28May2025 02:37:29.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1758, y=100, z=-120} BlockPos{x=1759, y=100, z=-118}
+[28May2025 02:37:29.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1758, y=100, z=-120} BlockPos{x=1759, y=100, z=-118}
+[28May2025 02:39:55.638] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:40:04.440] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:40:22.890] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:40:33.139] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:40:34.958] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 20 ms
+[28May2025 02:41:50.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Who's The Thief Now]
+[28May2025 02:41:55.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Treasure Room]
+[28May2025 02:42:19.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:42:19.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:42:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [Sky's the Limit]
+[28May2025 02:43:38.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Treasure Room]
+[28May2025 02:44:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Who is Cutting Onions?]
+[28May2025 02:45:44.784] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[28May2025 02:45:44.784] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[28May2025 02:45:44.785] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[28May2025 02:45:44.785] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[28May2025 02:45:44.785] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[28May2025 02:45:44.785] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[28May2025 02:45:44.785] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[28May2025 02:45:44.786] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[28May2025 02:45:44.786] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[28May2025 02:46:23.750] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[28May2025 02:46:23.751] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[28May2025 02:46:23.751] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[28May2025 02:46:23.751] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[28May2025 02:46:23.751] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[28May2025 02:46:23.751] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[28May2025 02:46:23.751] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[28May2025 02:46:24.039] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:46:35.547] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 02:46:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [A Ruined Citadel]
+[28May2025 02:47:19.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 02:47:19.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 02:48:05.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[28May2025 02:48:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[28May2025 02:49:42.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[28May2025 02:49:42.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
