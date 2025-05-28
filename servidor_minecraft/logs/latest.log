@@ -483,3 +483,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 01:26:03.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [28May2025 01:27:16.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
 [28May2025 01:27:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[28May2025 01:29:07.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:2739] logged in with entity id 98719 at (3059.9062622015667, 104.58088160793879, 585.9287839632913)
+[28May2025 01:29:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[28May2025 01:30:38.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[28May2025 01:36:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Great View From Up Here]
