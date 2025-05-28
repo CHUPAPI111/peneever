@@ -487,3 +487,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 01:29:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
 [28May2025 01:30:38.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
 [28May2025 01:36:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Great View From Up Here]
+[28May2025 01:41:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Postmortal]
+[28May2025 01:44:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo fell from a high place
+[28May2025 01:46:49.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Serious Dedication]
