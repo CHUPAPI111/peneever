@@ -4724,6 +4724,7 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "end_midlands": "2025-05-28 03:03:57 +0000",
       "end_wilds": "2025-05-28 02:26:24 +0000",
       "ender_waste": "2025-05-28 02:26:34 +0000",
       "sculk_growth": "2025-05-28 02:50:18 +0000",
@@ -5025,11 +5026,47 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
-      "requirement": "2025-05-28 02:57:19 +0000"
+      "has_bookshelf": "2025-05-28 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-05-28 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/reinforced_hang_glider": {
+    "criteria": {
+      "has_elytra": "2025-05-28 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-28 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/treasure_room": {
+    "criteria": {
+      "obtain_head": "2025-05-28 03:14:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/headhunter": {
+    "criteria": {
+      "20": "2025-05-28 03:14:04 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-05-28 03:15:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

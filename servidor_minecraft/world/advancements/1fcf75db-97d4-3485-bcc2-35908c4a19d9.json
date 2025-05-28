@@ -3617,6 +3617,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-28 02:59:35 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/journeys_end": {
     "criteria": {
       "activate_portal": "2025-05-28 02:13:07 +0000"
@@ -3691,6 +3697,8 @@
   },
   "stellarity:end_city/headhunter": {
     "criteria": {
+      "54": "2025-05-28 02:58:29 +0000",
+      "55": "2025-05-28 02:58:28 +0000",
       "17": "2025-05-28 02:43:38 +0000"
     },
     "done": false
@@ -3713,9 +3721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/purple_dye_from_chorus_fruit": {
     "criteria": {
       "has_item": "2025-05-28 02:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
     },
     "done": true
   },
@@ -3731,9 +3751,33 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-05-28 02:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-05-28 02:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
     },
     "done": true
   },
@@ -3764,6 +3808,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
     },
     "done": true
   },
@@ -3805,8 +3855,10 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "end_midlands": "2025-05-28 03:03:26 +0000",
       "end_wilds": "2025-05-28 02:26:35 +0000",
       "ender_waste": "2025-05-28 02:26:36 +0000",
+      "sculk_growth": "2025-05-28 03:07:16 +0000",
       "end_highlands": "2025-05-28 02:45:13 +0000"
     },
     "done": false
@@ -3814,6 +3866,12 @@
   "stellarity:dragons_den/final_showdown": {
     "criteria": {
       "spawn_dragon_first_time": "2025-05-28 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-05-28 03:12:15 +0000"
     },
     "done": true
   },
@@ -3826,6 +3884,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-05-28 01:18:00 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/reinforced_hang_glider": {
+    "criteria": {
+      "has_elytra": "2025-05-28 02:58:06 +0000"
     },
     "done": true
   },
@@ -3856,6 +3920,18 @@
   "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_ender_insignia": {
     "criteria": {
       "requirement": "2025-05-28 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-05-28 03:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-28 02:58:06 +0000"
     },
     "done": true
   },

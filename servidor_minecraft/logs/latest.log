@@ -618,3 +618,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 02:57:46.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1665, y=161, z=-1125} BlockPos{x=1665, y=160, z=-1124}
 [28May2025 02:58:06.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [Sky's the Limit]
 [28May2025 02:59:35.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Local Brewery]
+[28May2025 03:02:47.138] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:02:48.839] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:03:27.450] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 163 ms
+[28May2025 03:03:35.316] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 178 ms
+[28May2025 03:03:35.335] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:04:31.341] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 554 ms
+[28May2025 03:04:47.248] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=545, y=25, z=-1378} but found not block entity block Block{minecraft:air} at location
+[28May2025 03:04:47.248] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=545, y=25, z=-1378}
+[28May2025 03:04:48.846] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=536, y=25, z=-1650} but found not block entity block Block{minecraft:air} at location
+[28May2025 03:04:48.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=536, y=25, z=-1650}
+[28May2025 03:04:57.587] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:05:00.790] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 252 ms
+[28May2025 03:05:07.388] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:05:29.638] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:07:31.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=460, y=38, z=-1438} BlockPos{x=461, y=36, z=-1438}
+[28May2025 03:07:32.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=460, y=38, z=-1438} BlockPos{x=461, y=36, z=-1438}
+[28May2025 03:07:32.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=460, y=38, z=-1438} BlockPos{x=461, y=36, z=-1438}
+[28May2025 03:08:04.338] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 1 ms
+[28May2025 03:08:32.539] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:11:25.338] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:11:50.096] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:13:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Sky's the Limit]
+[28May2025 03:14:04.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Treasure Room]
+[28May2025 03:15:21.487] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:15:28.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [The Imperial March]
+[28May2025 03:15:30.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The Imperial March]
+[28May2025 03:15:43.488] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[28May2025 03:16:06.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[28May2025 03:16:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[28May2025 03:16:54.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:3715] logged in with entity id 264256 at (-3.701866891025294, 136.8125, -1407.4982712649091)
+[28May2025 03:16:54.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[28May2025 03:16:54.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[28May2025 03:16:54.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[28May2025 03:17:02.549] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@759594bd[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:3726) lost connection: Disconnected
+[28May2025 03:17:07.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:3736] logged in with entity id 264270 at (-3.701866891025294, 136.8125, -1407.4982712649091)
+[28May2025 03:17:07.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[28May2025 03:18:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Forever Stranded]
+[28May2025 03:18:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Forever Stranded]
+[28May2025 03:18:57.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Colorful Arsenal]
+[28May2025 03:19:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Colorful Arsenal]
