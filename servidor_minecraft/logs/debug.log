@@ -4753,3 +4753,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 03:19:16.264] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.ResultContainer@fc1ec65=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@fc1ec65, c=net.minecraft.world.inventory.InventoryMenu@82cd948, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@82cd948, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@82cd948, b=36, e=44}, net.minecraft.world.inventory.TransientCraftingContainer@79eb1906=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@79eb1906, c=net.minecraft.world.inventory.InventoryMenu@82cd948, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@82cd948, b=45, e=45}}
 [28May2025 03:19:16.264] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@82cd948, b=9, e=35}
 [28May2025 03:19:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Colorful Arsenal]
+[28May2025 03:22:19.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 03:22:19.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 03:23:02.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[28May2025 03:23:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[28May2025 03:23:12.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[28May2025 03:23:12.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[28May2025 03:23:28.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/280606, l='ServerLevel[world]', x=1752.45, y=-256.00, z=820.48] died, message: 'Villager was killed'
+[28May2025 03:27:19.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 03:27:19.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

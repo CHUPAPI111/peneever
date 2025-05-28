@@ -658,3 +658,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 03:18:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Forever Stranded]
 [28May2025 03:18:57.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Colorful Arsenal]
 [28May2025 03:19:32.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Colorful Arsenal]
+[28May2025 03:23:02.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[28May2025 03:23:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[28May2025 03:23:12.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[28May2025 03:23:12.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[28May2025 03:23:28.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/280606, l='ServerLevel[world]', x=1752.45, y=-256.00, z=820.48] died, message: 'Villager was killed'
