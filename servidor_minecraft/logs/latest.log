@@ -961,3 +961,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 23:31:47.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
 [29May2025 23:33:32.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
 [29May2025 23:33:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[29May2025 23:36:25.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/286886, l='ServerLevel[world]', x=1752.88, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[29May2025 23:38:51.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/289197, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
