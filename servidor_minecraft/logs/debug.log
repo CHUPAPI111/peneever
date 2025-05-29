@@ -3839,3 +3839,61 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 21:11:55.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9543ms or 190 ticks behind
 [29May2025 21:12:21.407] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138559, l='ServerLevel[world]', x=311.93, y=51.00, z=62.73] died: Toxic Slime fell from a high place
 [29May2025 21:12:21.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10945ms or 218 ticks behind
+[29May2025 21:12:30.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138560, l='ServerLevel[world]', x=325.91, y=31.00, z=92.69] died: Toxic Slime fell from a high place
+[29May2025 21:12:45.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[29May2025 21:13:00.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=403, y=17, z=103} BlockPos{x=403, y=17, z=101}
+[29May2025 21:13:07.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7486ms or 149 ticks behind
+[29May2025 21:13:31.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8461ms or 169 ticks behind
+[29May2025 21:13:54.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8530ms or 170 ticks behind
+[29May2025 21:14:19.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10113ms or 202 ticks behind
+[29May2025 21:14:42.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8000ms or 160 ticks behind
+[29May2025 21:15:03.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5748ms or 114 ticks behind
+[29May2025 21:15:25.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7555ms or 151 ticks behind
+[29May2025 21:15:47.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6796ms or 135 ticks behind
+[29May2025 21:16:10.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7323ms or 146 ticks behind
+[29May2025 21:16:38.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13448ms or 268 ticks behind
+[29May2025 21:17:02.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 21:17:02.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 21:17:07.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13895ms or 277 ticks behind
+[29May2025 21:17:14.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142520, l='ServerLevel[world]', x=278.34, y=31.00, z=117.98] died: Toxic Slime fell from a high place
+[29May2025 21:17:27.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142435, l='ServerLevel[world]', x=275.26, y=32.00, z=183.47] died: Toxic Slime fell from a high place
+[29May2025 21:17:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Strange Biomes]
+[29May2025 21:17:27.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Hellfire Mantle]
+[29May2025 21:17:31.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [A fortress? No, a citadel!]
+[29May2025 21:17:35.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13399ms or 267 ticks behind
+[29May2025 21:17:36.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Pipe Dream]
+[29May2025 21:17:43.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142689, l='ServerLevel[world]', x=219.40, y=51.00, z=282.64] died: Toxic Slime fell from a high place
+[29May2025 21:17:52.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142769, l='ServerLevel[world]', x=294.36, y=36.00, z=282.28] died: Toxic Slime fell from a high place
+[29May2025 21:17:59.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142770, l='ServerLevel[world]', x=277.99, y=32.00, z=322.82] died: Toxic Slime fell from a high place
+[29May2025 21:18:03.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12826ms or 256 ticks behind
+[29May2025 21:18:24.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [An Illager Refuge?]
+[29May2025 21:18:27.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Hellish Paradise]
+[29May2025 21:18:28.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10113ms or 202 ticks behind
+[29May2025 21:18:32.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/142906, l='ServerLevel[world]', x=150.70, y=57.00, z=531.70] died: Sanctum Cultist went up in flames
+[29May2025 21:18:51.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/142898, l='ServerLevel[world]', x=158.98, y=39.50, z=525.60] died: Sanctum Protector was slain by amaroxplay
+[29May2025 21:18:53.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10084ms or 201 ticks behind
+[29May2025 21:18:59.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/142909, l='ServerLevel[world]', x=159.10, y=39.50, z=525.19] died: Sanctum Protector was slain by amaroxplay
+[29May2025 21:19:17.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9359ms or 187 ticks behind
+[29May2025 21:19:18.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/143029, l='ServerLevel[world]', x=156.15, y=42.50, z=534.06] died: Sanctum Protector was slain by amaroxplay
+[29May2025 21:19:20.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/142904, l='ServerLevel[world]', x=156.67, y=42.50, z=533.17] died: Sanctum Protector was slain by amaroxplay
+[29May2025 21:19:31.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/143056, l='ServerLevel[world]', x=105.82, y=37.00, z=540.12] died: Sanctum Cultist went up in flames
+[29May2025 21:19:43.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10985ms or 219 ticks behind
+[29May2025 21:19:48.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Sanctum Ritualist'/142932, l='ServerLevel[world]', x=89.72, y=43.70, z=547.05] died: Sanctum Ritualist was shot by Sanctum Apostle
+[29May2025 21:20:11.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12546ms or 250 ticks behind
+[29May2025 21:20:38.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12397ms or 247 ticks behind
+[29May2025 21:21:05.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11650ms or 233 ticks behind
+[29May2025 21:21:30.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/143050, l='ServerLevel[world]', x=148.28, y=42.00, z=514.40] died: Sanctum Cultist was shot by Skeleton
+[29May2025 21:21:31.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11244ms or 224 ticks behind
+[29May2025 21:21:34.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/142857, l='ServerLevel[world]', x=151.58, y=42.00, z=512.92] died: Sanctum Cultist was shot by Skeleton
+[29May2025 21:21:34.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/142825, l='ServerLevel[world]', x=154.06, y=42.96, z=513.87] died: Sanctum Cultist was shot by Skeleton
+[29May2025 21:21:41.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['Sanctum Illusionist'/142905, l='ServerLevel[world]', x=133.00, y=43.00, z=526.00] died: Sanctum Illusionist was slain by amaroxplay
+[29May2025 21:21:41.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/143066, l='ServerLevel[world]', x=154.40, y=42.92, z=519.42] died: Sanctum Apostle was shot by Skeleton
+[29May2025 21:21:48.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/142965, l='ServerLevel[world]', x=150.20, y=43.00, z=534.56] died: Sanctum Cultist was shot by Sanctum Cultist
+[29May2025 21:21:59.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12597ms or 251 ticks behind
+[29May2025 21:22:16.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/142925, l='ServerLevel[world]', x=81.64, y=45.00, z=534.98] died: Sanctum Protector was shot by Illusioner
+[29May2025 21:22:24.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/142920, l='ServerLevel[world]', x=87.65, y=43.00, z=543.62] died: Sanctum Protector was shot by Sanctum Cultist
+[29May2025 21:22:28.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14495ms or 289 ticks behind
+[29May2025 21:22:30.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/142964, l='ServerLevel[world]', x=146.72, y=42.00, z=510.25] died: Sanctum Cultist was shot by Skeleton
+[29May2025 21:22:31.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144942, l='ServerLevel[world]', x=244.13, y=37.55, z=126.09] died: Toxic Slime was slain by Iron Golem
+[29May2025 21:22:39.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144941, l='ServerLevel[world]', x=237.25, y=33.00, z=130.26] died: Toxic Slime was slain by Iron Golem
+[29May2025 21:22:41.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144809, l='ServerLevel[world]', x=243.06, y=35.00, z=130.94] died: Toxic Slime was slain by Iron Golem
