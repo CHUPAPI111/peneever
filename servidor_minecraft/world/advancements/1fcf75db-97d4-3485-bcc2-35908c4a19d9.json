@@ -806,6 +806,8 @@
       "minecraft:shulker": "2025-05-28 02:27:04 +0000",
       "minecraft:cave_spider": "2025-05-01 02:06:34 +0000",
       "minecraft:enderman": "2025-05-09 18:18:39 +0000",
+      "minecraft:silverfish": "2025-05-29 23:12:36 +0000",
+      "minecraft:endermite": "2025-05-29 23:10:22 +0000",
       "minecraft:vex": "2025-05-27 21:24:33 +0000",
       "minecraft:zombie": "2025-05-01 01:53:38 +0000",
       "minecraft:drowned": "2025-05-01 01:53:37 +0000"
@@ -4225,6 +4227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-29 23:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-29 20:27:55 +0000"
@@ -4408,6 +4416,12 @@
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-05-29 22:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-29 23:05:46 +0000"
     },
     "done": true
   },
