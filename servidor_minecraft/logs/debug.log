@@ -4061,3 +4061,94 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 21:52:25.590] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29May2025 21:52:37.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18068ms or 361 ticks behind
 [29May2025 21:53:14.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22275ms or 445 ticks behind
+[29May2025 21:53:31.726] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[29May2025 21:53:31.727] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[29May2025 21:53:31.727] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[29May2025 21:53:38.234] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[29May2025 21:53:38.235] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[29May2025 21:53:38.753] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[29May2025 21:53:38.754] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[29May2025 21:53:56.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26630ms or 532 ticks behind
+[29May2025 21:54:32.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21106ms or 422 ticks behind
+[29May2025 21:55:08.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21315ms or 426 ticks behind
+[29May2025 21:55:25.296] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[29May2025 21:55:25.296] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[29May2025 21:55:27.217] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:27.217] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:27.217] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:27.217] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:39.206] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:39.206] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:39.206] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:39.206] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:55:48.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25143ms or 502 ticks behind
+[29May2025 21:56:25.732] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[29May2025 21:56:25.733] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[29May2025 21:56:27.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23545ms or 470 ticks behind
+[29May2025 21:57:00.727] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[29May2025 21:57:00.727] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[29May2025 21:57:00.883] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[29May2025 21:57:00.883] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[29May2025 21:57:04.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22466ms or 449 ticks behind
+[29May2025 21:57:09.373] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:09.373] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:09.373] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:09.373] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:35.778] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:35.778] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:35.778] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:35.779] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:41.153] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:41.154] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:41.154] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:41.154] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 21:57:42.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23321ms or 466 ticks behind
+[29May2025 21:57:49.836] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[29May2025 21:57:53.300] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[29May2025 21:57:53.300] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[29May2025 21:57:53.300] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[29May2025 21:57:53.303] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[29May2025 21:58:18.936] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[29May2025 21:58:18.937] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[29May2025 21:58:18.999] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[29May2025 21:58:19.000] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[29May2025 21:58:19.000] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[29May2025 21:58:19.000] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[29May2025 21:58:19.000] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[29May2025 21:58:19.005] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[29May2025 21:58:19.005] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[29May2025 21:58:21.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23817ms or 476 ticks behind
+[29May2025 21:59:02.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25452ms or 509 ticks behind
+[29May2025 21:59:23.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=10, z=1066} BlockPos{x=-136, y=9, z=1066}
+[29May2025 21:59:43.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26088ms or 521 ticks behind
+[29May2025 21:59:45.258] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 absolute--16 absolute]
+[29May2025 22:00:23.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24793ms or 495 ticks behind
+[29May2025 22:00:47.104] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[29May2025 22:00:47.104] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[29May2025 22:00:48.296] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:00:48.296] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:00:48.297] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:00:48.297] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:01:01.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23441ms or 468 ticks behind
+[29May2025 22:01:42.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25749ms or 514 ticks behind
+[29May2025 22:01:44.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[29May2025 22:02:01.670] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[29May2025 22:02:01.670] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[29May2025 22:02:02.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -7.418628757113311,-1.3995683633242209,16.05265416634029
+[29May2025 22:02:07.513] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:02:07.513] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:02:07.513] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:02:07.514] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 22:02:12.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -7.4513353513921174,-1.3416986629343484,16.329368143006377
+[29May2025 22:02:16.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[29May2025 22:02:28.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31139ms or 622 ticks behind
+[29May2025 22:02:53.049] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[29May2025 22:02:53.050] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[29May2025 22:02:53.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -8.821214332502677,-1.179252195632273,16.37800215093148
+[29May2025 22:03:00.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Darude - Firestorm]
+[29May2025 22:03:10.787] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[29May2025 22:03:10.787] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[29May2025 22:03:16.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -7.152819071837257,5.487563188369194,15.347442570090038
+[29May2025 22:03:22.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39323ms or 786 ticks behind
+[29May2025 22:03:24.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -8.13558027063209,5.625352557654878,14.837771560715964
+[29May2025 22:03:33.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -9.347850046058738,-1.5634731660153136,15.783280467190139
