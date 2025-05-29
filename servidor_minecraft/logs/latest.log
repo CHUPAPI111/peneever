@@ -530,3 +530,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 21:22:31.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144942, l='ServerLevel[world]', x=244.13, y=37.55, z=126.09] died: Toxic Slime was slain by Iron Golem
 [29May2025 21:22:39.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144941, l='ServerLevel[world]', x=237.25, y=33.00, z=130.26] died: Toxic Slime was slain by Iron Golem
 [29May2025 21:22:41.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144809, l='ServerLevel[world]', x=243.06, y=35.00, z=130.94] died: Toxic Slime was slain by Iron Golem
+[29May2025 21:22:44.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144800, l='ServerLevel[world]', x=245.47, y=31.00, z=132.61] died: Toxic Slime fell from a high place
+[29May2025 21:22:45.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Illusioner['Sanctum Illusionist'/142923, l='ServerLevel[world]', x=89.35, y=43.06, z=543.05] died: Sanctum Illusionist was slain by amaroxplay
+[29May2025 21:22:46.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144940, l='ServerLevel[world]', x=238.74, y=34.00, z=128.13] died: Toxic Slime was slain by Iron Golem
+[29May2025 21:23:00.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17187ms or 343 ticks behind
+[29May2025 21:23:06.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/144932, l='ServerLevel[world]', x=239.00, y=34.79, z=119.70] died: Toxic Slime was slain by Iron Golem
+[29May2025 21:23:15.064] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/143450, l='ServerLevel[world]', x=74.89, y=45.00, z=541.19] died: Sanctum Protector hit the ground too hard whilst trying to escape amaroxplay
+[29May2025 21:23:21.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/142927, l='ServerLevel[world]', x=63.60, y=49.00, z=544.30] died: Sanctum Apostle was slain by amaroxplay
+[29May2025 21:23:27.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/143064, l='ServerLevel[world]', x=96.70, y=36.28, z=569.53] died: Sanctum Cultist was shot by Arrow
+[29May2025 21:23:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Ancient Battlefield]
+[29May2025 21:23:32.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16498ms or 329 ticks behind
+[29May2025 21:23:54.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/142847, l='ServerLevel[world]', x=70.01, y=67.06, z=525.17] died: Sanctum Protector was slain by amaroxplay
+[29May2025 21:23:59.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12852ms or 257 ticks behind
+[29May2025 21:24:22.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
+[29May2025 21:24:44.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6857ms or 137 ticks behind
+[29May2025 21:24:49.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/142845, l='ServerLevel[world]', x=64.67, y=69.00, z=528.60] died: Sanctum Cultist was burnt to a crisp whilst fighting amaroxplay
+[29May2025 21:25:07.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8313ms or 166 ticks behind
+[29May2025 21:25:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Darude - Firestorm]
+[29May2025 21:25:31.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8944ms or 178 ticks behind
+[29May2025 21:25:51.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 2.078866766645465,-3.458377913377163,17.215860525642825
+[29May2025 21:25:55.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8917ms or 178 ticks behind
+[29May2025 21:26:18.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8128ms or 162 ticks behind
+[29May2025 21:26:40.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7536ms or 150 ticks behind
+[29May2025 21:27:02.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6713ms or 134 ticks behind
+[29May2025 21:27:23.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5756ms or 115 ticks behind
+[29May2025 21:27:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Hidden in the Depths]
+[29May2025 21:27:43.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5698ms or 113 ticks behind
+[29May2025 21:27:52.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 10.074114132248638,0.0,-0.1495511234403466
+[29May2025 21:28:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Cover Me in Debris]
+[29May2025 21:28:04.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-391, y=75, z=894} but found not block entity block Block{minecraft:air} at location
+[29May2025 21:28:04.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-391, y=75, z=894}
+[29May2025 21:28:04.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-393, y=96, z=890} but found not block entity block Block{minecraft:nether_bricks} at location
+[29May2025 21:28:04.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:nether_bricks} but failed at location BlockPos{x=-393, y=96, z=890}
+[29May2025 21:28:09.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10544ms or 210 ticks behind
+[29May2025 21:28:31.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
+[29May2025 21:28:52.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
+[29May2025 21:29:13.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5987ms or 119 ticks behind
+[29May2025 21:29:34.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[29May2025 21:29:55.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6513ms or 130 ticks behind
+[29May2025 21:30:17.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6518ms or 130 ticks behind
+[29May2025 21:30:38.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6670ms or 133 ticks behind
+[29May2025 21:31:00.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6276ms or 125 ticks behind
+[29May2025 21:31:21.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
+[29May2025 21:31:42.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6553ms or 131 ticks behind
+[29May2025 21:32:05.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7476ms or 149 ticks behind
+[29May2025 21:32:27.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7517ms or 150 ticks behind
+[29May2025 21:32:50.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8116ms or 162 ticks behind
