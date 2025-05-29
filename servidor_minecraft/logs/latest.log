@@ -936,3 +936,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 23:14:55.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 17.112612996314056,2.5480614706954725,-6.035957128094765
 [29May2025 23:14:55.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 11.132193726229161,12.844792896153507,-3.815131765691035
 [29May2025 23:15:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [A Ruined Citadel]
+[29May2025 23:16:14.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Palette Swap]
+[29May2025 23:16:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Palette Swap]
+[29May2025 23:17:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server niggers
+[29May2025 23:19:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Was that a Shulker?]
+[29May2025 23:20:22.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[29May2025 23:20:22.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[29May2025 23:20:25.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50084] logged in with entity id 275549 at (1905.2848286372, 31.0, -723.5028408769559)
+[29May2025 23:20:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[29May2025 23:22:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Three Little Birds]
+[29May2025 23:22:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Three Little Birds]
+[29May2025 23:23:24.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 was slain by Phantom
+[29May2025 23:23:24.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bhp240 with unique ID travelersbackpack.dragon_29.05.2025-23.23.24.dat
+[29May2025 23:23:24.922] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1976 Y: 53 Z: -825
+[29May2025 23:24:11.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported bhp240 to amaroxplay
+[29May2025 23:25:46.938] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 36 ms
+[29May2025 23:26:26.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -16.95291391648078,-3.142212648729412,-5.798169006551461
+[29May2025 23:28:46.520] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 225 ms
+[29May2025 23:28:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 was shot by Wither Skeleton
+[29May2025 23:28:49.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bhp240 with unique ID travelersbackpack.dragon_29.05.2025-23.28.49.dat
+[29May2025 23:28:49.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -308 Y: 179 Z: -1089
+[29May2025 23:29:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported bhp240 to amaroxplay
+[29May2025 23:29:53.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[29May2025 23:31:47.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[29May2025 23:33:32.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[29May2025 23:33:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
