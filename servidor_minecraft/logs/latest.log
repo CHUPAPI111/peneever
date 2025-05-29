@@ -874,3 +874,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 22:43:34.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-229, y=14, z=1104} BlockPos{x=-230, y=14, z=1103}
 [29May2025 22:44:02.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29220ms or 584 ticks behind
 [29May2025 22:44:48.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30394ms or 607 ticks behind
+[29May2025 22:45:36.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32789ms or 655 ticks behind
+[29May2025 22:46:22.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31666ms or 633 ticks behind
+[29May2025 22:47:10.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33103ms or 662 ticks behind
+[29May2025 22:48:00.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34462ms or 689 ticks behind
+[29May2025 22:48:07.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[29May2025 22:48:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[29May2025 22:48:45.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29978ms or 599 ticks behind
+[29May2025 22:49:27.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27257ms or 545 ticks behind
+[29May2025 22:49:31.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=10, z=1093} BlockPos{x=-196, y=9, z=1094}
+[29May2025 22:49:44.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!
+[29May2025 22:49:44.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=8, z=1097} BlockPos{x=-199, y=8, z=1097}
+[29May2025 22:49:44.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=9, z=1096} BlockPos{x=-199, y=8, z=1097}
+[29May2025 22:49:44.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=10, z=1096} BlockPos{x=-199, y=8, z=1097}
+[29May2025 22:49:44.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=8, z=1096} BlockPos{x=-199, y=8, z=1097}
+[29May2025 22:49:44.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=7, z=1097} BlockPos{x=-199, y=8, z=1097}
+[29May2025 22:50:10.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28357ms or 567 ticks behind
+[29May2025 22:50:52.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26872ms or 537 ticks behind
+[29May2025 22:51:25.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17432ms or 348 ticks behind
+[29May2025 22:51:52.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12342ms or 246 ticks behind
+[29May2025 22:52:05.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/249732, l='ServerLevel[world]', x=-41.08, y=103.00, z=624.13] died: Headless Warrior was slain by Piglin
+[29May2025 22:52:18.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/252823, l='ServerLevel[world]', x=-86.99, y=105.00, z=456.80] died: Toxic Slime fell from a high place
+[29May2025 22:52:35.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29May2025 22:52:49.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/256687, l='ServerLevel[world]', x=184.66, y=29.00, z=85.56] died: Toxic Slime fell from a high place
+[29May2025 22:52:53.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[29May2025 22:53:00.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/256934, l='ServerLevel[world]', x=1932.74, y=68.81, z=837.11] died: Toxic Slime was slain by amaroxplay
+[29May2025 22:53:06.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/256919, l='ServerLevel[world]', x=1928.58, y=65.55, z=838.07] died: Toxic Slime was slain by amaroxplay
+[29May2025 22:53:58.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c8ec7bf[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65120) lost connection: Disconnected
+[29May2025 22:54:15.421] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bcac007[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65143) lost connection: Disconnected
+[29May2025 22:54:47.981] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b5e4d1e[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65172) lost connection: Disconnected
+[29May2025 22:54:53.676] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b14b9c7[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:65214) lost connection: Disconnected
+[29May2025 22:54:57.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:65228] logged in with entity id 260948 at (1942.7398319888089, 65.0, 830.7432790390543)
+[29May2025 22:54:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
