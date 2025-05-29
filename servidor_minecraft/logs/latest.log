@@ -311,3 +311,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 19:57:30.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
 [29May2025 19:58:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The End... Again...]
 [29May2025 19:58:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [You Need a Mint]
+[29May2025 20:05:33.765] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88591, l='ServerLevel[world]', x=1752.39, y=-256.00, z=818.86] died, message: 'Villager was killed'
+[29May2025 20:07:39.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [God Slayer]
