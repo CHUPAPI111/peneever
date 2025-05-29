@@ -5095,6 +5095,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-29 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-29 20:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-29 20:28:17 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/trinkets/ender_insignia": {
     "criteria": {
       "requirement2": "2025-05-29 20:07:30 +0000"
@@ -5110,6 +5128,18 @@
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-05-29 19:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-29 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-29 20:28:41 +0000"
     },
     "done": true
   },
