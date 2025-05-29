@@ -288,3 +288,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 19:27:08.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:60651] logged in with entity id 28559 at (1759.2391365054489, 66.5625, 835.3555929952909)
 [29May2025 19:27:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
 [29May2025 19:27:16.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7771ms or 155 ticks behind
+[29May2025 19:45:15.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:51309] logged in with entity id 49411 at (1759.359913212396, 66.0, 834.9285581813306)
+[29May2025 19:45:15.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[29May2025 19:53:00.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66322, l='ServerLevel[world]', x=256.80, y=32.00, z=109.49] died: Toxic Slime fell from a high place
+[29May2025 19:53:09.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66363, l='ServerLevel[world]', x=237.41, y=37.24, z=128.72] died: Toxic Slime was slain by Iron Golem
+[29May2025 19:53:11.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[29May2025 19:53:12.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66291, l='ServerLevel[world]', x=227.74, y=36.12, z=95.90] died: Toxic Slime went off with a bang
+[29May2025 19:53:16.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66339, l='ServerLevel[world]', x=236.16, y=36.04, z=126.14] died: Toxic Slime was slain by Iron Golem
+[29May2025 19:53:22.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66326, l='ServerLevel[world]', x=237.06, y=32.22, z=131.26] died: Toxic Slime was slain by Iron Golem
+[29May2025 19:53:28.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66348, l='ServerLevel[world]', x=203.10, y=33.00, z=127.42] died: Toxic Slime fell from a high place
+[29May2025 19:53:36.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 3.9375245381929176,8.359851271270344,-16.55738750203372
+[29May2025 19:53:38.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[29May2025 19:54:05.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -17.158512312656057,-3.231638752006546,2.3921818538271182
+[29May2025 19:54:05.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[29May2025 19:54:46.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68810, l='ServerLevel[world]', x=298.11, y=60.00, z=160.90] died: Toxic Slime fell from a high place
+[29May2025 19:54:49.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68987, l='ServerLevel[world]', x=320.24, y=69.00, z=271.83] died: Toxic Slime fell from a high place
+[29May2025 19:54:56.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68891, l='ServerLevel[world]', x=279.12, y=34.00, z=266.72] died: Toxic Slime fell from a high place
+[29May2025 19:54:56.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68907, l='ServerLevel[world]', x=271.04, y=42.00, z=299.26] died: Toxic Slime fell from a high place
+[29May2025 19:54:56.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68904, l='ServerLevel[world]', x=278.26, y=35.00, z=292.29] died: Toxic Slime fell from a high place
+[29May2025 19:55:09.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69213, l='ServerLevel[world]', x=285.82, y=41.00, z=138.48] died: Toxic Slime fell from a high place
+[29May2025 19:57:12.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29May2025 19:57:30.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[29May2025 19:58:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The End... Again...]
+[29May2025 19:58:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [You Need a Mint]
