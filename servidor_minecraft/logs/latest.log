@@ -763,3 +763,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29May2025 22:03:22.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39323ms or 786 ticks behind
 [29May2025 22:03:24.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -8.13558027063209,5.625352557654878,14.837771560715964
 [29May2025 22:03:33.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -9.347850046058738,-1.5634731660153136,15.783280467190139
+[29May2025 22:03:58.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -8.908736442147983,-1.768731874548081,16.500060082087145
+[29May2025 22:04:09.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32490ms or 649 ticks behind
+[29May2025 22:04:51.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26531ms or 530 ticks behind
+[29May2025 22:05:37.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30821ms or 616 ticks behind
+[29May2025 22:06:06.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Hidden in the Depths]
+[29May2025 22:06:26.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33795ms or 675 ticks behind
+[29May2025 22:07:17.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36020ms or 720 ticks behind
+[29May2025 22:08:10.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38725ms or 774 ticks behind
+[29May2025 22:09:06.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40507ms or 810 ticks behind
+[29May2025 22:09:12.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/191410, l='ServerLevel[world]', x=178.01, y=31.00, z=107.39] died: Toxic Slime fell from a high place
+[29May2025 22:09:23.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/176969, l='ServerLevel[world]', x=52.22, y=90.00, z=76.75] died: Wither Skeleton Knight suffocated in a wall
+[29May2025 22:09:25.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/183595, l='ServerLevel[world]', x=33.35, y=72.00, z=103.21] died: Toxic Slime fell from a high place
+[29May2025 22:09:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [The Kings Residence]
+[29May2025 22:09:37.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/183593, l='ServerLevel[world]', x=70.52, y=72.00, z=121.88] died: Toxic Slime fell from a high place
+[29May2025 22:09:53.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32148ms or 642 ticks behind
+[29May2025 22:10:04.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Awaken]
+[29May2025 22:10:37.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29008ms or 580 ticks behind
+[29May2025 22:11:19.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26807ms or 536 ticks behind
+[29May2025 22:12:02.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28046ms or 560 ticks behind
+[29May2025 22:12:45.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28281ms or 565 ticks behind
+[29May2025 22:13:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Into Ashes]
+[29May2025 22:13:22.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Blaze King'/66552, l='ServerLevel[world]', x=48.39, y=104.73, z=80.02] died: Blaze King was killed
+[29May2025 22:13:29.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29414ms or 588 ticks behind
+[29May2025 22:13:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Into Fire]

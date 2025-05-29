@@ -1345,6 +1345,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-05-29 22:03:00 +0000",
       "incendium:volcanic_deltas": "2025-04-30 00:37:25 +0000",
       "incendium:toxic_heap": "2025-05-02 02:19:11 +0000"
     },
@@ -3853,6 +3854,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-05-29 21:48:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-29 22:03:00 +0000"
     },
     "done": true
   },
