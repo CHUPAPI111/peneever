@@ -1,39 +1,94 @@
-[30May2025 00:00:01.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
-[30May2025 00:00:19.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3324ms or 66 ticks behind
-[30May2025 00:00:37.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
-[30May2025 00:00:45.942] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/301086, l='ServerLevel[world]', x=137.26, y=56.00, z=76.40] died: Toxic Slime fell from a high place
-[30May2025 00:00:48.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/300924, l='ServerLevel[world]', x=148.50, y=42.00, z=82.25] died: Toxic Slime fell from a high place
-[30May2025 00:00:52.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/301076, l='ServerLevel[world]', x=202.74, y=40.00, z=122.44] died: Toxic Slime fell from a high place
-[30May2025 00:00:53.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:62457] logged in with entity id 302129 at (-344.42563094191036, 15.0, 1032.326896514404)
-[30May2025 00:00:53.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
-[30May2025 00:00:55.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
-[30May2025 00:01:21.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11527ms or 230 ticks behind
-[30May2025 00:01:36.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/302566, l='ServerLevel[world]', x=101.95, y=48.00, z=114.74] died: Toxic Slime fell from a high place
-[30May2025 00:01:56.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/304202, l='ServerLevel[world]', x=135.91, y=55.00, z=75.19] died: Toxic Slime fell from a high place
-[30May2025 00:01:56.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19920ms or 398 ticks behind
-[30May2025 00:02:37.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25463ms or 509 ticks behind
-[30May2025 00:03:11.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/302591, l='ServerLevel[world]', x=104.33, y=45.00, z=114.34] died: Toxic Slime fell from a high place
-[30May2025 00:03:22.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30216ms or 604 ticks behind
-[30May2025 00:03:47.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/304213, l='ServerLevel[world]', x=142.93, y=32.00, z=101.52] died: Toxic Slime fell from a high place
-[30May2025 00:03:47.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/301193, l='ServerLevel[world]', x=151.12, y=30.00, z=96.02] died: Toxic Slime fell from a high place
-[30May2025 00:04:10.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33433ms or 668 ticks behind
-[30May2025 00:05:01.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35312ms or 706 ticks behind
-[30May2025 00:05:53.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37808ms or 756 ticks behind
-[30May2025 00:06:49.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40956ms or 819 ticks behind
-[30May2025 00:07:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [The Kings Residence]
-[30May2025 00:07:52.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 47495ms or 949 ticks behind
-[30May2025 00:09:03.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56162ms or 1123 ticks behind
-[30May2025 00:10:18.333] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[30May2025 00:10:18.333] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[30May2025 00:10:19.587] [Server Watchdog/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
-java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
-	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
+[30May2025 00:37:30.750] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30May2025 00:37:30.754] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[30May2025 00:37:32.054] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30May2025 00:37:32.110] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/peneever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[30May2025 00:37:32.507] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 00:37:32.508] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 00:37:32.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 00:37:32.511] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/peneever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30May2025 00:37:33.165] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[30May2025 00:37:33.167] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
+[30May2025 00:37:33.572] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[30May2025 00:37:33.596] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[30May2025 00:37:33.610] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[30May2025 00:37:33.621] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/peneever/servidor_minecraft/mods/scripts as it did not exist.
+[30May2025 00:37:33.629] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[30May2025 00:37:36.476] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 2620ms
+[30May2025 00:37:36.482] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[30May2025 00:37:36.590] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30May2025 00:37:36.779] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[30May2025 00:37:36.781] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30May2025 00:37:36.794] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2025 00:37:36.955] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 105 options available, 0 override(s) found
+[30May2025 00:37:37.104] [main/INFO] [Puzzles Lib/]: Loading 60 mods:
+	- ambientsounds 6.0.6
+	- architectury 9.2.14
+	- betteradvancements 0.4.2.10
+	- betterfortresses 1.20-Forge-2.0.6
+	- bettermineshafts 1.20-Forge-4.0.4
+	- bettervillage 3.1.0
+	- carryon 2.1.2.7
+	- cataclysm 1.99.5
+	- clumps 12.0.0.4
+	- commongroovylibrary 0.3.3
+	- creativecore 2.11.28
+	- creeperoverhaul 3.0.2
+		\-- resourcefullib 2.1.20
+	- cupboard 1.20.1-2.7
+	- curios 5.9.1+1.20.1
+	- deeperdarker 1.3.3
+	- doespotatotick 1.20.1-4.0.2
+	- dungeons_arise 2.1.57-1.20.1
+	- dungeons_arise_seven_seas 1.0.2
+	- easymagic 8.0.1
+	- eatinganimation 5.0.0
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- endermanoverhaul 1.0.4
+	- entity_texture_features 6.2.9
+	- entityculling 1.7.0
+	- fallingleaves 2.1.0-beta.1
+	- farmersdelight 1.20.1-1.2.4
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- friendsandfoes 2.0.17
+		\-- mixinextras 0.3.6
+	- geckolib 4.4.9
+	- gml 4.0.9
+	- hangglider 8.0.1
+	- immediatelyfast 1.2.20+1.20.4
+	- incendium 5.3.1
+	- inventorysorter 23.0.1
+	- jei 15.19.0.88
+	- libraryferret 4.0.0
+	- lionfishapi 1.9
+	- minecraft 1.20.1
+	- moremobvariants 1.3.0.1
+	- mr_dungeons_andtaverns 1-v2.1.4
+	- mr_stellarity 2.0d
+	- myserveriscompatible 1.0
+	- naturalist 4.0.3
+	- pickupnotifier 8.0.0
+	- puzzleslib 8.1.23
+		\-- puzzlesaccessapi 8.0.7
+	- resourcefulconfig 2.1.2
+	- skyvillages 1.0.4
+	- sound_physics_remastered 1.20.1-1.4.5
+	- structory 1.3.5
+	- structureessentials 1.20.1-3.4
+	- terralith 2.5.4
+	- travelersbackpack 9.1.15
+	- ultris_mr 5.6.9c
+	- watching 1.9.2
+	- weaponmaster_ydm 4.2.3
+	- yungsapi 1.20-Forge-4.0.5
+[30May2025 00:37:37.655] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[30May2025 00:37:38.465] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[30May2025 00:37:38.466] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
+[30May2025 00:37:38.592] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[30May2025 00:37:38.594] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[30May2025 00:37:39.047] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
 	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
@@ -56,20 +111,565 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30May2025 00:10:19.654] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e6ab6776-c6f5-4fa6-9f4f-678edce54bb0
-[30May2025 00:10:19.672] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6bc062fb-00a4-47ae-a701-e1ade1d1abe8
-[30May2025 00:10:19.673] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/peneever/servidor_minecraft/./crash-reports/crash-2025-05-30_00.10.19-server.txt
-[30May2025 00:10:19.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30May2025 00:10:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30May2025 00:10:19.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Server closed
-[30May2025 00:10:19.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
-[30May2025 00:10:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30May2025 00:10:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30May2025 00:10:21.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30May2025 00:10:27.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30May2025 00:10:27.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[30May2025 00:10:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30May2025 00:10:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30May2025 00:10:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30May2025 00:10:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[30May2025 00:10:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[30May2025 00:37:39.059] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[30May2025 00:37:44.805] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[30May2025 00:37:45.036] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[30May2025 00:37:45.060] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[30May2025 00:37:45.060] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[30May2025 00:37:45.078] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[30May2025 00:37:45.121] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
+[30May2025 00:37:45.212] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30May2025 00:37:45.212] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30May2025 00:37:45.489] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[30May2025 00:37:45.523] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[30May2025 00:37:45.715] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[30May2025 00:37:45.768] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[30May2025 00:37:45.827] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30May2025 00:37:46.980] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[30May2025 00:37:47.144] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[30May2025 00:37:47.234] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[30May2025 00:37:47.335] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[30May2025 00:37:47.335] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[30May2025 00:37:47.337] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[30May2025 00:37:47.339] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[30May2025 00:37:47.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[30May2025 00:37:48.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
+[30May2025 00:37:48.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[30May2025 00:37:48.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[30May2025 00:37:48.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[30May2025 00:37:48.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.5 Target: 1.20.1-1.4.13
+[30May2025 00:37:48.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[30May2025 00:37:49.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[30May2025 00:37:49.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[30May2025 00:37:49.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.15 Target: 9.1.16
+[30May2025 00:37:49.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[30May2025 00:37:49.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[30May2025 00:37:49.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[30May2025 00:37:49.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[30May2025 00:37:49.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30May2025 00:37:49.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[30May2025 00:37:49.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
+[30May2025 00:37:49.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.9c Target: 5.6.9c+mod
+[30May2025 00:37:49.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[30May2025 00:37:49.542] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30May2025 00:37:49.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[30May2025 00:37:49.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[30May2025 00:37:49.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[30May2025 00:37:49.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[30May2025 00:37:49.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 1-v2.1.4 Target: 3.0.3.f+mod
+[30May2025 00:37:49.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[30May2025 00:37:49.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.23 Target: 8.1.32
+[30May2025 00:37:50.500] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/peneever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
+[30May2025 00:37:50.501] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/peneever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
+[30May2025 00:37:50.627] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[30May2025 00:37:54.519] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[30May2025 00:37:54.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[30May2025 00:37:54.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[30May2025 00:37:54.652] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23205!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[30May2025 00:37:54.835] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2353 advancements
+[30May2025 00:37:54.855] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[30May2025 00:37:54.861] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30May2025 00:37:54.862] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[30May2025 00:37:54.895] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[30May2025 00:37:55.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30May2025 00:37:55.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30May2025 00:37:55.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30May2025 00:37:55.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30May2025 00:37:55.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30May2025 00:37:55.906] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30May2025 00:37:55.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30May2025 00:37:55.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30May2025 00:37:55.999] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30May2025 00:37:55.999] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30May2025 00:37:56.026] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[30May2025 00:37:56.028] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[30May2025 00:37:56.029] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[30May2025 00:37:56.031] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[30May2025 00:37:56.032] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[30May2025 00:37:56.034] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[30May2025 00:37:56.038] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[30May2025 00:37:56.040] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[30May2025 00:37:56.043] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[30May2025 00:37:56.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30May2025 00:38:03.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30May2025 00:38:05.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:05.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:05.347] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:05.348] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:05.351] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:05.542] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:06.063] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:06.610] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:07.216] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:07.719] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:08.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:08.536] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:38:09.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[30May2025 00:38:09.459] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6429 ms
+[30May2025 00:38:09.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.444s)! For help, type "help"
+[30May2025 00:38:09.497] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30May2025 00:38:09.500] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[30May2025 00:38:12.162] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30May2025 00:38:12.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:62573] logged in with entity id 1655 at (-361.1219490801729, 14.0, 1010.3000000119209)
+[30May2025 00:38:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[30May2025 00:38:32.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:8415] logged in with entity id 5589 at (2033.4788604288065, 217.5, 656.3437988761915)
+[30May2025 00:38:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[30May2025 00:38:33.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[30May2025 00:38:59.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50324] logged in with entity id 7930 at (53.031990719149064, 75.0, 58.498155554750724)
+[30May2025 00:38:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 00:39:02.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13542ms or 270 ticks behind
+[30May2025 00:39:14.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9219, l='ServerLevel[world]', x=87.99, y=81.00, z=67.38] died: Toxic Slime fell from a high place
+[30May2025 00:39:14.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9222, l='ServerLevel[world]', x=87.23, y=69.00, z=64.17] died: Toxic Slime fell from a high place
+[30May2025 00:39:19.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9220, l='ServerLevel[world]', x=74.88, y=74.00, z=95.74] died: Toxic Slime fell from a high place
+[30May2025 00:39:19.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9221, l='ServerLevel[world]', x=87.28, y=67.00, z=94.29] died: Toxic Slime fell from a high place
+[30May2025 00:39:20.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9099, l='ServerLevel[world]', x=48.68, y=66.00, z=42.75] died: Toxic Slime fell from a high place
+[30May2025 00:39:38.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21247ms or 424 ticks behind
+[30May2025 00:40:20.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27007ms or 540 ticks behind
+[30May2025 00:41:07.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32123ms or 642 ticks behind
+[30May2025 00:41:53.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30996ms or 619 ticks behind
+[30May2025 00:42:41.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32901ms or 658 ticks behind
+[30May2025 00:43:31.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35163ms or 703 ticks behind
+[30May2025 00:44:24.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38612ms or 772 ticks behind
+[30May2025 00:44:38.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 00:44:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 00:45:01.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21245ms or 424 ticks behind
+[30May2025 00:45:32.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15941ms or 318 ticks behind
+[30May2025 00:46:02.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15343ms or 306 ticks behind
+[30May2025 00:46:32.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15683ms or 313 ticks behind
+[30May2025 00:47:04.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16433ms or 328 ticks behind
+[30May2025 00:47:36.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17512ms or 350 ticks behind
+[30May2025 00:48:06.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14784ms or 295 ticks behind
+[30May2025 00:48:36.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14755ms or 295 ticks behind
+[30May2025 00:49:07.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15715ms or 314 ticks behind
+[30May2025 00:49:40.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18861ms or 377 ticks behind
+[30May2025 00:50:17.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21621ms or 432 ticks behind
+[30May2025 00:50:48.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15701ms or 314 ticks behind
+[30May2025 00:51:18.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15468ms or 309 ticks behind
+[30May2025 00:51:49.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15953ms or 319 ticks behind
+[30May2025 00:52:20.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15617ms or 312 ticks behind
+[30May2025 00:52:51.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16729ms or 334 ticks behind
+[30May2025 00:53:24.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17341ms or 346 ticks behind
+[30May2025 00:53:58.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18844ms or 376 ticks behind
+[30May2025 00:54:30.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17461ms or 349 ticks behind
+[30May2025 00:55:01.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15984ms or 319 ticks behind
+[30May2025 00:55:29.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13510ms or 270 ticks behind
+[30May2025 00:55:58.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13536ms or 270 ticks behind
+[30May2025 00:56:30.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -0.14701417873703804,-0.07840000152587834,10.430697070273482
+[30May2025 00:56:31.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18155ms or 363 ticks behind
+[30May2025 00:57:01.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14509ms or 290 ticks behind
+[30May2025 00:57:31.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15759ms or 315 ticks behind
+[30May2025 00:58:02.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15660ms or 313 ticks behind
+[30May2025 00:58:35.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18130ms or 362 ticks behind
+[30May2025 00:59:09.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19240ms or 384 ticks behind
+[30May2025 00:59:47.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22450ms or 449 ticks behind
+[30May2025 01:00:22.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20236ms or 404 ticks behind
+[30May2025 01:00:58.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21076ms or 421 ticks behind
+[30May2025 01:01:06.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32497, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[30May2025 01:01:34.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21109ms or 422 ticks behind
+[30May2025 01:02:09.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20023ms or 400 ticks behind
+[30May2025 01:02:41.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17124ms or 342 ticks behind
+[30May2025 01:03:11.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14399ms or 287 ticks behind
+[30May2025 01:03:39.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13117ms or 262 ticks behind
+[30May2025 01:04:06.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12725ms or 254 ticks behind
+[30May2025 01:04:32.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10735ms or 214 ticks behind
+[30May2025 01:04:59.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11707ms or 234 ticks behind
+[30May2025 01:05:21.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7213ms or 144 ticks behind
+[30May2025 01:05:39.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[30May2025 01:05:57.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30May2025 01:06:16.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4207ms or 84 ticks behind
+[30May2025 01:06:41.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9682ms or 193 ticks behind
+[30May2025 01:07:04.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=17, z=220} BlockPos{x=-212, y=16, z=220}
+[30May2025 01:07:07.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10956ms or 219 ticks behind
+[30May2025 01:07:35.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13302ms or 266 ticks behind
+[30May2025 01:08:07.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16685ms or 333 ticks behind
+[30May2025 01:08:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Voluntary Exile]
+[30May2025 01:08:30.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Hero of the Village]
+[30May2025 01:08:42.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20722ms or 414 ticks behind
+[30May2025 01:09:18.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20440ms or 408 ticks behind
+[30May2025 01:09:50.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17163ms or 343 ticks behind
+[30May2025 01:10:19.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13975ms or 279 ticks behind
+[30May2025 01:10:44.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10734ms or 214 ticks behind
+[30May2025 01:10:50.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/48944, l='ServerLevel[world]', x=203.94, y=32.00, z=136.98] died: Toxic Slime fell from a high place
+[30May2025 01:11:10.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10932ms or 218 ticks behind
+[30May2025 01:15:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Hero of the Village]
+[30May2025 01:22:13.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Surge Protector]
+[30May2025 01:27:12.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30May2025 01:28:36.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[30May2025 01:28:36.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[30May2025 01:29:34.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:12119] logged in with entity id 66148 at (2030.2878169229798, 217.0, 654.7486135409284)
+[30May2025 01:29:34.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[30May2025 01:37:50.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50437] logged in with entity id 71922 at (72.98862407682886, 95.0, 90.37270256813323)
+[30May2025 01:37:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 01:37:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
+[30May2025 01:38:01.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30May2025 01:38:22.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/74767, l='ServerLevel[world]', x=149.23, y=91.00, z=36.40] died: Toxic Slime fell from a high place
+[30May2025 01:38:24.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8575ms or 171 ticks behind
+[30May2025 01:38:49.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9620ms or 192 ticks behind
+[30May2025 01:39:01.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied effect Haste to DodiWo]
+[30May2025 01:39:17.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13339ms or 266 ticks behind
+[30May2025 01:39:42.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied effect Haste to DodiWo]
+[30May2025 01:39:46.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13982ms or 279 ticks behind
+[30May2025 01:40:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied effect Haste to DodiWo]
+[30May2025 01:40:17.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16107ms or 322 ticks behind
+[30May2025 01:40:23.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied effect Haste to DodiWo]
+[30May2025 01:40:51.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18267ms or 365 ticks behind
+[30May2025 01:41:26.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20225ms or 404 ticks behind
+[30May2025 01:41:31.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/78933, l='ServerLevel[world]', x=44.04, y=90.00, z=93.69] died: Toxic Slime fell from a high place
+[30May2025 01:41:42.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79515, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[30May2025 01:41:50.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/78831, l='ServerLevel[world]', x=30.70, y=51.00, z=133.75] died: Toxic Slime fell from a high place
+[30May2025 01:41:53.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/78860, l='ServerLevel[world]', x=87.56, y=71.00, z=61.04] died: Toxic Slime fell from a high place
+[30May2025 01:41:56.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied effect Haste to DodiWo]
+[30May2025 01:42:02.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21312ms or 426 ticks behind
+[30May2025 01:42:19.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Removed every effect from DodiWo]
+[30May2025 01:42:38.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21396ms or 427 ticks behind
+[30May2025 01:43:13.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19207ms or 384 ticks behind
+[30May2025 01:43:44.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16673ms or 333 ticks behind
+[30May2025 01:44:20.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20214ms or 404 ticks behind
+[30May2025 01:44:57.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22151ms or 443 ticks behind
+[30May2025 01:45:34.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22592ms or 451 ticks behind
+[30May2025 01:46:12.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22997ms or 459 ticks behind
+[30May2025 01:46:48.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/85995, l='ServerLevel[world]', x=-1.12, y=71.00, z=86.29] died: Toxic Slime fell from a high place
+[30May2025 01:46:51.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24047ms or 480 ticks behind
+[30May2025 01:47:13.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[30May2025 01:47:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[30May2025 01:47:19.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:62897] logged in with entity id 86577 at (1757.2389699567257, 71.0, 807.6069065756593)
+[30May2025 01:47:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[30May2025 01:47:29.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23249ms or 464 ticks behind
+[30May2025 01:48:01.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/87327, l='ServerLevel[world]', x=111.39, y=83.00, z=70.72] died: Toxic Slime fell from a high place
+[30May2025 01:48:07.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22677ms or 453 ticks behind
+[30May2025 01:48:22.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/87444, l='ServerLevel[world]', x=268.85, y=32.00, z=130.24] died: Toxic Slime fell from a high place
+[30May2025 01:48:35.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12987ms or 259 ticks behind
+[30May2025 01:52:16.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vagabond'/6841, l='ServerLevel[world]', x=1933.96, y=61.05, z=834.70] died, message: 'Vagabond drowned'
+[30May2025 01:52:16.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vagabond'/6841, l='ServerLevel[world]', x=1933.96, y=61.05, z=834.70] died: Vagabond drowned
+[30May2025 01:57:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Hero of the Village]
+[30May2025 01:58:03.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[30May2025 01:59:28.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Cover Me in Debris]
+[30May2025 01:59:50.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!
+[30May2025 02:00:28.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 02:00:28.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 02:00:59.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50502] logged in with entity id 96826 at (2029.300000011921, 191.0, 655.3000000119209)
+[30May2025 02:00:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 02:01:14.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 02:01:14.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 02:04:28.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50526] logged in with entity id 99873 at (2029.300000011921, 220.74368289259766, 653.6796902574788)
+[30May2025 02:04:28.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 02:05:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [World of illusion]
+[30May2025 02:05:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Voluntary Exile]
+[30May2025 02:08:57.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [I was here, i lived, i..]
+[30May2025 02:08:57.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [The Magicians]
+[30May2025 02:10:02.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30May2025 02:10:20.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30May2025 02:10:37.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[30May2025 02:10:55.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[30May2025 02:11:12.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/108944, l='ServerLevel[world]', x=242.83, y=31.72, z=136.14] died: Toxic Slime was slain by Iron Golem
+[30May2025 02:11:34.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30May2025 02:11:52.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3261ms or 65 ticks behind
+[30May2025 02:12:00.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/110175, l='ServerLevel[world]', x=258.74, y=67.00, z=41.99] died: Toxic Slime fell from a high place
+[30May2025 02:12:09.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/110176, l='ServerLevel[world]', x=241.59, y=30.00, z=44.21] died: Toxic Slime fell from a high place
+[30May2025 02:12:15.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7889ms or 157 ticks behind
+[30May2025 02:14:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Bring Home the Beacon]
+[30May2025 02:14:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Beaconator]
+[30May2025 02:16:50.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[30May2025 02:17:09.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[30May2025 02:18:04.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119201, l='ServerLevel[world]', x=194.02, y=35.00, z=127.79] died: Toxic Slime fell from a high place
+[30May2025 02:18:06.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119189, l='ServerLevel[world]', x=242.31, y=35.00, z=129.01] died: Toxic Slime was slain by Iron Golem
+[30May2025 02:18:08.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119495, l='ServerLevel[world]', x=262.26, y=43.00, z=128.21] died: Toxic Slime fell from a high place
+[30May2025 02:18:09.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119521, l='ServerLevel[world]', x=271.76, y=32.00, z=84.20] died: Toxic Slime fell from a high place
+[30May2025 02:18:12.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119540, l='ServerLevel[world]', x=289.14, y=48.00, z=135.44] died: Toxic Slime fell from a high place
+[30May2025 02:18:17.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119232, l='ServerLevel[world]', x=237.65, y=36.82, z=124.85] died: Toxic Slime was slain by Iron Golem
+[30May2025 02:18:18.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30May2025 02:18:18.810] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119402, l='ServerLevel[world]', x=286.93, y=51.00, z=40.76] died: Toxic Slime fell from a high place
+[30May2025 02:18:20.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119403, l='ServerLevel[world]', x=298.49, y=34.00, z=35.35] died: Toxic Slime fell from a high place
+[30May2025 02:18:24.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119502, l='ServerLevel[world]', x=279.55, y=50.00, z=41.26] died: Toxic Slime fell from a high place
+[30May2025 02:18:36.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3454ms or 69 ticks behind
+[30May2025 02:18:53.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[30May2025 02:19:11.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30May2025 02:19:22.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/121430, l='ServerLevel[world]', x=37.34, y=89.00, z=268.10] died: Toxic Slime fell from a high place
+[30May2025 02:19:31.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4494ms or 89 ticks behind
+[30May2025 02:19:38.295] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/124313, l='ServerLevel[world]', x=33.09, y=72.00, z=174.93] died: Toxic Slime fell from a high place
+[30May2025 02:19:38.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/124561, l='ServerLevel[world]', x=30.01, y=48.00, z=128.76] died: Toxic Slime fell from a high place
+[30May2025 02:19:45.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/124831, l='ServerLevel[world]', x=51.99, y=82.00, z=116.32] died: Toxic Slime fell from a high place
+[30May2025 02:19:55.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[30May2025 02:19:59.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13073ms or 261 ticks behind
+[30May2025 02:20:28.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14737ms or 294 ticks behind
+[30May2025 02:21:00.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16579ms or 331 ticks behind
+[30May2025 02:21:33.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17666ms or 353 ticks behind
+[30May2025 02:22:06.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/128909, l='ServerLevel[world]', x=47.87, y=52.00, z=378.14] died: Toxic Slime fell from a high place
+[30May2025 02:22:08.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20124ms or 402 ticks behind
+[30May2025 02:22:29.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[30May2025 02:22:35.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/129783, l='ServerLevel[world]', x=235.63, y=76.00, z=460.06] died: Toxic Slime fell from a high place
+[30May2025 02:22:35.885] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/129782, l='ServerLevel[world]', x=237.55, y=70.00, z=453.41] died: Toxic Slime fell from a high place
+[30May2025 02:22:44.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/129784, l='ServerLevel[world]', x=204.38, y=67.00, z=491.76] died: Toxic Slime fell from a high place
+[30May2025 02:22:49.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5323ms or 106 ticks behind
+[30May2025 02:23:07.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
+[30May2025 02:23:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Super Sonic]
+[30May2025 02:23:24.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[30May2025 02:23:37.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/130019, l='ServerLevel[world]', x=397.61, y=89.00, z=449.11] died: Toxic Slime fell from a high place
+[30May2025 02:23:37.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/130020, l='ServerLevel[world]', x=395.46, y=89.00, z=448.91] died: Toxic Slime fell from a high place
+[30May2025 02:23:42.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[30May2025 02:23:47.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -7.579115163226959,-2.620585230374317,-16.881960490236224
+[30May2025 02:23:55.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/130559, l='ServerLevel[world]', x=239.81, y=32.00, z=132.96] died: Toxic Slime was slain by Iron Golem
+[30May2025 02:23:56.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/131069, l='ServerLevel[world]', x=255.19, y=31.00, z=111.17] died: Toxic Slime fell from a high place
+[30May2025 02:24:02.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5482ms or 109 ticks behind
+[30May2025 02:26:42.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1702, y=65, z=848} BlockPos{x=1702, y=66, z=847}
+[30May2025 02:27:21.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1697, y=59, z=848} BlockPos{x=1698, y=60, z=847}
+[30May2025 02:28:58.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[30May2025 02:32:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Withering Heights]
+[30May2025 02:32:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Ultra Withering Heights]
+[30May2025 02:32:13.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Ultra Withering Heights]
+[30May2025 02:32:13.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Ultra Withering Heights]
+[30May2025 02:32:44.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was killed by Ultra Wither using magic
+[30May2025 02:32:44.317] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for amaroxplay with unique ID travelersbackpack.spider_30.05.2025-02.32.44.dat
+[30May2025 02:32:44.319] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1684 Y: 41 Z: 851
+[30May2025 02:32:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 was killed by Ultra Wither using magic
+[30May2025 02:32:45.406] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bhp240 with unique ID travelersbackpack.dragon_30.05.2025-02.32.45.dat
+[30May2025 02:32:45.406] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1690 Y: 40 Z: 845
+[30May2025 02:32:51.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30May2025 02:33:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Ultra Demise]
+[30May2025 02:33:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Ultra Demise]
+[30May2025 02:33:33.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Ultra Demise]
+[30May2025 02:33:33.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherBoss['Ultra Wither'/137174, l='ServerLevel[world]', x=1696.52, y=43.50, z=849.27] died: Ultra Wither was killed whilst fighting DodiWo
+[30May2025 02:38:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was killed by Ultra Wither using magic
+[30May2025 02:38:15.510] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for amaroxplay with unique ID travelersbackpack.spider_30.05.2025-02.38.15.dat
+[30May2025 02:38:15.511] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1688 Y: 43 Z: 841
+[30May2025 02:38:28.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[30May2025 02:39:06.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherBoss['Ultra Wither'/139750, l='ServerLevel[world]', x=1676.57, y=47.51, z=837.10] died: Ultra Wither was killed whilst fighting bhp240
+[30May2025 02:49:53.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[30May2025 03:01:47.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2276, y=80, z=-230} BlockPos{x=2276, y=79, z=-230}
+[30May2025 03:02:18.413] [Worker-Main-177/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[30May2025 03:02:18.414] [Worker-Main-177/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[30May2025 03:02:31.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[30May2025 03:02:31.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[30May2025 03:03:00.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 8.336343244842737,-2.3721021688694464,-15.983319221855254
+[30May2025 03:03:00.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 9.74523113358373,-2.853960241069217,-15.62494593508768
+[30May2025 03:03:08.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 10.575737975375432,0.24227163011180153,-15.286896690984122
+[30May2025 03:03:08.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 8.685169017199314,-2.694240457673459,-16.122176547270783
+[30May2025 03:03:08.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -7.975303005233172,-1.0991778230909688,16.674680326962857
+[30May2025 03:03:33.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -0.6272456542610598,-11.633070593039463,1.282150419886193
+[30May2025 03:03:56.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
+[30May2025 03:03:56.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -8.967051708260215,1.408755941190897,4.609678091066257
+[30May2025 03:05:49.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!
+[30May2025 03:07:08.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [A Metropolis of Restless Souls]
+[30May2025 03:07:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has reached the goal [A Metropolis of Restless Souls]
+[30May2025 03:12:56.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to amaroxplay]
+[30May2025 03:12:56.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [A Metropolis of Restless Souls]
+[30May2025 03:13:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Sneak 100]
+[30May2025 03:16:29.633] [Worker-Main-160/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[30May2025 03:16:29.634] [Worker-Main-160/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[30May2025 03:25:12.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:25:12.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:25:30.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50740] logged in with entity id 176823 at (3202.308854045805, -33.0, -2088.742907752455)
+[30May2025 03:25:30.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:26:23.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:26:23.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:26:41.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50763] logged in with entity id 176915 at (3195.300000011921, -51.0, -2130.300000011921)
+[30May2025 03:26:41.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:27:13.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[30May2025 03:27:13.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[30May2025 03:28:56.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[30May2025 03:29:42.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:20675] logged in with entity id 180062 at (3142.300000011921, -50.0, -2118.5182373581483)
+[30May2025 03:29:42.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[30May2025 03:29:52.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [It Spreads]
+[30May2025 03:34:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [It Spreads]
+[30May2025 03:40:30.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:40:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:40:45.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50839] logged in with entity id 185410 at (3263.300000011921, -50.0, -2154.8642683155394)
+[30May2025 03:40:45.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:40:54.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:40:54.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:40:58.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50855] logged in with entity id 185468 at (3247.300000011921, -51.0, -2135.1562591246657)
+[30May2025 03:40:58.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:41:06.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:41:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:41:09.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50871] logged in with entity id 185539 at (3228.946451030089, -51.0, -2115.924018242322)
+[30May2025 03:41:09.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:43:17.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:43:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:43:21.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50895] logged in with entity id 185848 at (3176.699999988079, -48.0, -2187.556915911844)
+[30May2025 03:43:21.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:43:27.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:43:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:43:30.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50906] logged in with entity id 185874 at (3196.699999988079, -48.73801923013196, -2187.7014950105513)
+[30May2025 03:43:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:44:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Gave 64 [Arrow] to DodiWo]
+[30May2025 03:44:44.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Phantom Thief]
+[30May2025 03:46:27.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Phantom Thief]
+[30May2025 03:48:07.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:48:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:48:14.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50931] logged in with entity id 186649 at (3250.149285906249, -51.0, -2186.2461556960234)
+[30May2025 03:48:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:52:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Phantom Thief]
+[30May2025 03:55:29.736] [Worker-Main-160/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[30May2025 03:55:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has made the advancement [Below the Bedrock]
+[30May2025 03:55:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Below the Bedrock]
+[30May2025 03:55:30.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 0.09094474805397113,80.0,0.3451210997113776
+[30May2025 03:55:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Below the Bedrock]
+[30May2025 03:55:35.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -0.9816974355535422,79.83389073906179,7.332745096484814
+[30May2025 03:55:47.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 11.032473056929575,-75.79999995231628,-11.032521873133646
+[30May2025 03:55:54.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! 11.876856155518908,-75.5,-11.876904971722979
+[30May2025 03:55:55.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 12.303343890269844,-76.19999995231629,-12.303392706473915
+[30May2025 03:56:18.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:56:18.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:56:21.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50963] logged in with entity id 191379 at (3242.416381237721, -50.0, -2159.634984638293)
+[30May2025 03:56:21.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:56:31.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! 13.29457109662144,-75.5,-13.29461991282551
+[30May2025 03:56:36.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:56:36.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:56:39.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50979] logged in with entity id 191409 at (3240.0795840534456, -50.0, -2154.300000011921)
+[30May2025 03:56:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:58:11.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[30May2025 03:58:11.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[30May2025 03:58:11.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:58:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:58:14.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:50996] logged in with entity id 191751 at (3239.078384481157, -50.0, -2136.2608925819727)
+[30May2025 03:58:14.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:58:23.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:58:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:58:26.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:51010] logged in with entity id 191782 at (3240.6720737349374, -50.0, -2134.187709113914)
+[30May2025 03:58:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:58:35.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:58:35.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:58:47.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:51030] logged in with entity id 191940 at (3240.644282711707, -49.5, -2143.205895308581)
+[30May2025 03:58:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 03:58:57.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 10.616333212474274,-75.79999995231628,-10.616382028678345
+[30May2025 03:59:46.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:63920] logged in with entity id 196366 at (3213.8401515976957, -32.02995823438129, -2085.3681827922983)
+[30May2025 03:59:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[30May2025 03:59:47.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[30May2025 03:59:47.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[30May2025 03:59:53.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 03:59:53.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 03:59:56.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:51048] logged in with entity id 196428 at (3229.2066416376047, -51.0, -2115.25779466609)
+[30May2025 03:59:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 04:00:55.029] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ec8a90c[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:22983) lost connection: Disconnected
+[30May2025 04:01:01.823] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31f8d16e[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:23001) lost connection: Disconnected
+[30May2025 04:01:07.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:23023] logged in with entity id 196772 at (3239.1840485122348, -49.504799122994086, -2128.2316425903546)
+[30May2025 04:01:07.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[30May2025 04:02:34.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -0.5097942339748442,79.74779665974627,0.5097454177707732
+[30May2025 04:02:36.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! 0.4608320801503396,79.99866402088784,-0.46088089635441065
+[30May2025 04:07:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to amaroxplay]
+[30May2025 04:13:45.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[30May2025 04:16:02.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3236, y=52, z=-2156} BlockPos{x=3236, y=52, z=-2154}
+[30May2025 04:16:02.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3236, y=52, z=-2157} BlockPos{x=3235, y=52, z=-2157}
+[30May2025 04:16:03.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3236, y=52, z=-2156} BlockPos{x=3237, y=51, z=-2159}
+[30May2025 04:16:03.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3236, y=52, z=-2157} BlockPos{x=3236, y=52, z=-2158}
+[30May2025 04:24:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has completed the challenge [Echolocation]
+[30May2025 04:24:59.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has completed the challenge [Echolocation]
+[30May2025 04:25:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Echolocation]
+[30May2025 04:25:09.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2799, y=52, z=-2200} BlockPos{x=2800, y=51, z=-2200}
+[30May2025 04:26:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported 3 entities to bhp240]
+[30May2025 04:27:33.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[30May2025 04:27:33.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[30May2025 04:27:49.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:51122] logged in with entity id 209422 at (2787.9689588612096, 75.0, -2349.7891938992425)
+[30May2025 04:27:49.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[30May2025 04:32:32.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2844, y=58, z=-2409} BlockPos{x=2848, y=59, z=-2411}
+[30May2025 04:33:18.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2859, y=60, z=-2400} BlockPos{x=2861, y=59, z=-2400}
+[30May2025 04:33:24.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2851, y=60, z=-2398} BlockPos{x=2851, y=60, z=-2399}
+[30May2025 04:33:25.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2851, y=60, z=-2398} BlockPos{x=2851, y=60, z=-2397}
+[30May2025 04:35:12.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied effect Haste to DodiWo]
+[30May2025 04:35:19.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2928, y=63, z=-2317} BlockPos{x=2927, y=62, z=-2317}
+[30May2025 04:35:32.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2828, y=13, z=-2422} BlockPos{x=2827, y=13, z=-2421}
+[30May2025 04:35:34.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2827, y=11, z=-2419} BlockPos{x=2827, y=10, z=-2419}
+[30May2025 04:35:34.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2827, y=11, z=-2419} BlockPos{x=2827, y=10, z=-2419}
+[30May2025 04:35:34.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2827, y=12, z=-2418} BlockPos{x=2827, y=11, z=-2418}
+[30May2025 04:36:10.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2828, y=13, z=-2364} BlockPos{x=2826, y=12, z=-2363}
+[30May2025 04:36:11.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2828, y=13, z=-2364} BlockPos{x=2828, y=13, z=-2363}
+[30May2025 04:36:11.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2828, y=13, z=-2364} BlockPos{x=2828, y=13, z=-2363}
+[30May2025 04:36:20.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2827, y=13, z=-2346} BlockPos{x=2827, y=12, z=-2348}
+[30May2025 04:37:01.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2828, y=12, z=-2324} BlockPos{x=2831, y=11, z=-2330}
+[30May2025 04:39:02.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2843, y=13, z=-2180} BlockPos{x=2844, y=12, z=-2179}
+[30May2025 04:39:02.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2843, y=13, z=-2180} BlockPos{x=2843, y=11, z=-2178}
+[30May2025 04:39:02.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2843, y=13, z=-2180} BlockPos{x=2843, y=11, z=-2178}
+[30May2025 04:39:02.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2843, y=13, z=-2180} BlockPos{x=2843, y=11, z=-2178}
+[30May2025 04:41:17.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30May2025 04:41:28.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Removed 809 item(s) from player DodiWo]
+[30May2025 04:41:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30May2025 04:41:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30May2025 04:41:33.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[30May2025 04:41:33.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[30May2025 04:41:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30May2025 04:41:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30May2025 04:41:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30May2025 04:41:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[30May2025 04:41:43.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30May2025 04:41:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30May2025 04:41:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30May2025 04:41:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[30May2025 04:41:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30May2025 04:41:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
