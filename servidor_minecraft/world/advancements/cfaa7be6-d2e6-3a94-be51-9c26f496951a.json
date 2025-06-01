@@ -4536,6 +4536,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
     "criteria": {
       "has_sculk_stone": "2025-06-01 22:15:09 +0000"
@@ -4548,9 +4560,63 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
     "criteria": {
       "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-01 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
     },
     "done": true
   },
