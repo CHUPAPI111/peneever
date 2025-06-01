@@ -358,3 +358,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 23:13:01.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amaroxplay> BROOOO
 [01Jun2025 23:16:02.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amaroxplay> jose
 [01Jun2025 23:16:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amaroxplay> xaero-waypoint:PORTAL DIMENSION WARDEN:P:3230:46:-2149:15:false:0:Internal-dim%deeperdarker$otherside-waypoints
+[01Jun2025 23:33:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DodiWo> AMAROOO
+[01Jun2025 23:35:08.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! 13.488798181901075,-75.79999995231628,-13.488846998105146
+[01Jun2025 23:37:26.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DodiWo> amaroo
+[01Jun2025 23:37:42.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 12.256204979561517,-75.79999995231628,-12.256253795765588
+[01Jun2025 23:39:04.394] [Worker-Main-185/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=101, z=385}
+[01Jun2025 23:39:04.395] [Worker-Main-185/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=101, z=385}
+[01Jun2025 23:39:27.327] [Worker-Main-187/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[01Jun2025 23:39:27.327] [Worker-Main-187/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[01Jun2025 23:39:28.811] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=99, z=1251}
+[01Jun2025 23:39:28.812] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=100, z=1251}
+[01Jun2025 23:39:28.812] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=383, y=101, z=1251}
+[01Jun2025 23:39:28.813] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=101, z=1251}
+[01Jun2025 23:39:28.813] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=100, z=1251}
+[01Jun2025 23:39:28.813] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=99, z=1251}
+[01Jun2025 23:42:03.190] [Worker-Main-180/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=131, z=583}
+[01Jun2025 23:42:03.191] [Worker-Main-180/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=131, z=582}
+[01Jun2025 23:42:03.191] [Worker-Main-180/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=131, z=585}
+[01Jun2025 23:42:03.977] [Worker-Main-185/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=131, z=580}
+[01Jun2025 23:42:17.939] [Worker-Main-195/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[01Jun2025 23:42:17.939] [Worker-Main-195/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[01Jun2025 23:44:20.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amaroxplay> xaero-waypoint:Aldea principal:A:1890:75:870:5:false:0:Internal-overworld-waypoints
+[01Jun2025 23:44:40.802] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[01Jun2025 23:44:40.803] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[01Jun2025 23:44:40.803] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[01Jun2025 23:44:40.804] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[01Jun2025 23:44:40.870] [Worker-Main-201/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[01Jun2025 23:44:58.714] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[01Jun2025 23:44:58.714] [Worker-Main-197/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[01Jun2025 23:45:42.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -8.707386358073563,-1.408864647682094,16.41650873132025
+[01Jun2025 23:47:28.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4963ms or 99 ticks behind
+[01Jun2025 23:47:28.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -1.9009544687887683,-2.1832033338415044,17.338533676711563
+[01Jun2025 23:47:28.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -1.517680372132645,11.239933539853126,14.634200851437527
