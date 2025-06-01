@@ -297,3 +297,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:55:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
 [01Jun2025 21:56:07.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
 [01Jun2025 21:56:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[01Jun2025 21:57:37.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:49290] logged in with entity id 9034 at (2856.022808151774, 16.0, -1978.5080660581605)
+[01Jun2025 21:57:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[01Jun2025 21:58:01.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Survival Mode]
+[01Jun2025 21:58:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Creative Mode]
+[01Jun2025 21:58:32.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[01Jun2025 21:58:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[01Jun2025 22:02:52.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:49399] logged in with entity id 13476 at (2856.699999988079, 16.0, -1979.6921811746186)
+[01Jun2025 22:02:52.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[01Jun2025 22:04:00.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Removed every effect from DodiWo]
+[01Jun2025 22:06:14.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Looting III to DodiWo's item]
+[01Jun2025 22:06:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:06:36.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Sharpness V to DodiWo's item]
+[01Jun2025 22:06:47.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:06:57.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Sweeping Edge III to DodiWo's item]
+[01Jun2025 22:08:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Fire Aspect II to DodiWo's item]
+[01Jun2025 22:09:12.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:09:17.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Fortune III to DodiWo's item]
+[01Jun2025 22:09:21.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Efficiency V to DodiWo's item]
+[01Jun2025 22:09:29.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:09:39.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:09:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Efficiency IV to DodiWo's item]
+[01Jun2025 22:09:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:10:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:10:31.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Protection IV to DodiWo's item]
+[01Jun2025 22:11:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Aqua Affinity to DodiWo's item]
+[01Jun2025 22:11:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:11:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:11:36.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:11:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Protection IV to DodiWo's item]
+[01Jun2025 22:12:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Protection IV to DodiWo's item]
+[01Jun2025 22:12:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:12:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:12:17.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:12:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:12:21.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Protection IV to DodiWo's item]
+[01Jun2025 22:12:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Feather Falling IV to DodiWo's item]
+[01Jun2025 22:12:52.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Depth Strider III to DodiWo's item]
+[01Jun2025 22:13:10.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:13:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Efficiency IV to DodiWo's item]
+[01Jun2025 22:13:23.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Silk Touch to DodiWo's item]
+[01Jun2025 22:13:27.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:13:32.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:13:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Efficiency IV to DodiWo's item]
+[01Jun2025 22:13:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:13:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Fortune III to DodiWo's item]
+[01Jun2025 22:16:13.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Fortune III to DodiWo's item]
+[01Jun2025 22:16:18.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:16:22.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Efficiency IV to DodiWo's item]
+[01Jun2025 22:16:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:19:55.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Mending to DodiWo's item]
+[01Jun2025 22:19:57.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Unbreaking III to DodiWo's item]
+[01Jun2025 22:23:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Survival Mode]
+[01Jun2025 22:24:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo no longer a server operator
