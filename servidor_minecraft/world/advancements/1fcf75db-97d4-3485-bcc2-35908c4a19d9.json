@@ -5151,6 +5151,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-06-02 01:16:52 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"

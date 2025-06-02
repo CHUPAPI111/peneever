@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-30 00:30:45 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-02 01:16:57 +0000",
       "minecraft:taiga": "2025-05-30 03:01:21 +0000",
       "minecraft:deep_ocean": "2025-05-01 02:54:54 +0000",
       "minecraft:sunflower_plains": "2025-04-30 00:31:28 +0000",
@@ -4579,6 +4580,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-02 01:14:53 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
@@ -4642,6 +4649,12 @@
   "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-06-02 01:16:58 +0000"
     },
     "done": true
   },
