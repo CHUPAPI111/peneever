@@ -1302,6 +1302,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-06-02 00:12:39 +0000",
       "sweet_berries": "2025-04-30 00:34:48 +0000",
       "sugar_cane": "2025-05-01 03:35:04 +0000"
     },
@@ -4527,6 +4528,18 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
     "criteria": {
       "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-06-01 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-01 23:59:22 +0000"
     },
     "done": true
   },

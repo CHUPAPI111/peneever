@@ -2453,9 +2453,10 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2025-05-27 21:24:03 +0000",
-      "killed_illusioner": "2025-05-01 03:42:33 +0000"
+      "killed_illusioner": "2025-05-01 03:42:33 +0000",
+      "killed_iceologer": "2025-06-02 00:05:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
@@ -5152,6 +5153,12 @@
   "deeperdarker:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-06-02 00:05:52 +0000"
     },
     "done": true
   },

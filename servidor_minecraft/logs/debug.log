@@ -3868,3 +3868,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 23:57:49.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Sculk Engineer]
 [01Jun2025 23:57:49.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 23:57:49.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:02:49.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:02:49.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:02:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:phantom'
+[02Jun2025 00:02:50.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve dodiwo phantom membrane 3<--[HERE]
+[02Jun2025 00:03:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
+[02Jun2025 00:03:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Gave 3 [Phantom Membrane] to DodiWo]
+[02Jun2025 00:03:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 00:03:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desop dodiwo<--[HERE]
+[02Jun2025 00:03:56.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo no longer a server operator
+[02Jun2025 00:05:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [I was here, i lived, i..]
+[02Jun2025 00:05:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [The Magicians]
+[02Jun2025 00:07:49.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:07:49.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:12:49.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:12:49.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:15:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DodiWo> pen enme bnh39yb gvbh8efe
+[02Jun2025 00:17:49.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:17:49.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
