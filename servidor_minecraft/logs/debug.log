@@ -5027,3 +5027,53 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jun2025 02:59:27.229] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1ddacdaa into net.minecraft.network.Connection@150c3861
 [02Jun2025 02:59:27.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
 [02Jun2025 02:59:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to 3565.500000, -51.000000, -2672.500000]
+[02Jun2025 03:02:49.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:02:49.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:04:28.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3426, y=-29, z=-2498} BlockPos{x=3426, y=-30, z=-2500}
+[02Jun2025 03:07:49.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:07:49.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:12:49.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:12:49.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:17:49.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:17:49.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:21:32.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3563, y=-49, z=-2697} BlockPos{x=3564, y=-50, z=-2696}
+[02Jun2025 03:22:49.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:22:49.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:23:19.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3605, y=-53, z=-2642} BlockPos{x=3605, y=-52, z=-2643}
+[02Jun2025 03:23:19.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3605, y=-53, z=-2642} BlockPos{x=3605, y=-52, z=-2643}
+[02Jun2025 03:23:45.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3619, y=-50, z=-2594} BlockPos{x=3620, y=-50, z=-2595}
+[02Jun2025 03:23:45.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3619, y=-50, z=-2594} BlockPos{x=3620, y=-50, z=-2595}
+[02Jun2025 03:27:49.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:27:49.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:32:49.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:32:49.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:35:08.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3549, y=-52, z=-2665} BlockPos{x=3548, y=-52, z=-2663}
+[02Jun2025 03:35:16.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3539, y=-52, z=-2663} BlockPos{x=3539, y=-52, z=-2662}
+[02Jun2025 03:35:17.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3542, y=-52, z=-2663} BlockPos{x=3541, y=-51, z=-2663}
+[02Jun2025 03:35:24.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3552, y=-52, z=-2671} BlockPos{x=3551, y=-53, z=-2670}
+[02Jun2025 03:35:31.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3549, y=-52, z=-2675} BlockPos{x=3548, y=-51, z=-2675}
+[02Jun2025 03:37:20.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3597, y=-45, z=-2608} BlockPos{x=3597, y=-46, z=-2608}
+[02Jun2025 03:37:20.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3597, y=-45, z=-2608} BlockPos{x=3597, y=-46, z=-2608}
+[02Jun2025 03:37:20.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3597, y=-45, z=-2608} BlockPos{x=3597, y=-46, z=-2608}
+[02Jun2025 03:37:20.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3597, y=-45, z=-2608} BlockPos{x=3597, y=-46, z=-2608}
+[02Jun2025 03:37:29.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3543, y=-51, z=-2692} BlockPos{x=3543, y=-52, z=-2692}
+[02Jun2025 03:37:49.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:37:49.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:40:08.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3507, y=-16, z=-2539} BlockPos{x=3509, y=-16, z=-2540}
+[02Jun2025 03:40:27.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3507, y=-16, z=-2546} BlockPos{x=3507, y=-15, z=-2546}
+[02Jun2025 03:40:32.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-19, z=-2548} BlockPos{x=3505, y=-18, z=-2548}
+[02Jun2025 03:40:36.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-21, z=-2552} BlockPos{x=3505, y=-20, z=-2552}
+[02Jun2025 03:40:36.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-21, z=-2552} BlockPos{x=3505, y=-20, z=-2552}
+[02Jun2025 03:40:36.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-21, z=-2552} BlockPos{x=3505, y=-20, z=-2552}
+[02Jun2025 03:40:36.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-21, z=-2552} BlockPos{x=3505, y=-20, z=-2552}
+[02Jun2025 03:42:07.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -9.087161451732754,-1.7954688728586916,15.660728912830336
+[02Jun2025 03:42:08.590] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[02Jun2025 03:42:08.590] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[02Jun2025 03:42:08.590] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[02Jun2025 03:42:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Super Creeps]
+[02Jun2025 03:42:49.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:42:49.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:47:49.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 03:47:49.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 03:47:59.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[02Jun2025 03:47:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
