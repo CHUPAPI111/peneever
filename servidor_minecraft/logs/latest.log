@@ -83,3 +83,17 @@
 [02Jun2025 01:42:00.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
 [02Jun2025 01:46:16.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
 [02Jun2025 01:49:16.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[02Jun2025 01:51:15.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 01:51:15.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 01:51:31.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:59735] logged in with entity id 206608 at (3511.4179395633982, -51.0, -2531.1665093053125)
+[02Jun2025 01:51:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[02Jun2025 01:55:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was obliterated by a sonically-charged shriek
+[02Jun2025 01:55:09.185] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for amaroxplay with unique ID travelersbackpack.spider_02.06.2025-01.55.09.dat
+[02Jun2025 01:55:09.188] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3515 Y: -48 Z: -2535
+[02Jun2025 01:55:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported amaroxplay to DodiWo
+[02Jun2025 01:56:53.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 01:56:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 01:57:18.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:59881] logged in with entity id 215784 at (3533.75224741002, -51.0, -2532.0274093279895)
+[02Jun2025 01:57:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[02Jun2025 01:57:25.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was slain by Warden
+[02Jun2025 01:57:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported amaroxplay to DodiWo
