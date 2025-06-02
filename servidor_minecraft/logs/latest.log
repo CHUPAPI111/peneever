@@ -139,3 +139,19 @@
 [02Jun2025 03:42:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Super Creeps]
 [02Jun2025 03:47:59.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
 [02Jun2025 03:47:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[02Jun2025 03:52:57.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has completed the challenge [Cover Me with Sculk]
+[02Jun2025 03:58:45.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 03:58:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 03:58:53.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jun2025 03:58:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jun2025 03:58:53.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jun2025 03:58:53.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jun2025 03:58:53.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jun2025 03:58:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Jun2025 03:58:54.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jun2025 03:58:54.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jun2025 03:58:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jun2025 03:58:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Jun2025 03:58:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jun2025 03:58:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jun2025 03:58:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
