@@ -812,7 +812,8 @@
       "minecraft:endermite": "2025-05-29 23:10:22 +0000",
       "minecraft:vex": "2025-05-27 21:24:33 +0000",
       "minecraft:zombie": "2025-05-01 01:53:38 +0000",
-      "minecraft:drowned": "2025-05-01 01:53:37 +0000"
+      "minecraft:drowned": "2025-05-01 01:53:37 +0000",
+      "minecraft:zombie_villager": "2025-06-02 00:40:34 +0000"
     },
     "done": false
   },
@@ -5156,6 +5157,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-06-02 00:44:29 +0000"
+    },
+    "done": false
+  },
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-06-02 00:05:52 +0000"
@@ -5165,6 +5172,12 @@
   "deeperdarker:recipes/tools/warden_shovel_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-02 00:40:59 +0000"
     },
     "done": true
   },
@@ -5195,6 +5208,12 @@
   "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-06-02 00:40:34 +0000"
     },
     "done": true
   },
