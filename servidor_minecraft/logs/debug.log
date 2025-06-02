@@ -4864,3 +4864,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jun2025 02:22:49.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 02:27:49.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 02:27:49.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:32:49.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:32:49.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:37:49.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:37:49.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:42:49.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:42:49.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:46:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
+[02Jun2025 02:47:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Swift Sneak III to DodiWo's item]
+[02Jun2025 02:47:49.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:47:49.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:50:09.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!

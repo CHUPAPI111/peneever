@@ -97,3 +97,6 @@
 [02Jun2025 01:57:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
 [02Jun2025 01:57:25.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was slain by Warden
 [02Jun2025 01:57:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported amaroxplay to DodiWo
+[02Jun2025 02:46:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
+[02Jun2025 02:47:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Swift Sneak III to DodiWo's item]
+[02Jun2025 02:50:09.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!
