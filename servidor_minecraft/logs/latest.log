@@ -100,3 +100,12 @@
 [02Jun2025 02:46:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
 [02Jun2025 02:47:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Applied enchantment Swift Sneak III to DodiWo's item]
 [02Jun2025 02:50:09.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!
+[02Jun2025 02:55:01.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3548, y=-51, z=-2570} BlockPos{x=3546, y=-50, z=-2569}
+[02Jun2025 02:57:00.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 02:57:00.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 02:59:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo was slain by Stalker
+[02Jun2025 02:59:10.765] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DodiWo with unique ID travelersbackpack.diamond_02.06.2025-02.59.10.dat
+[02Jun2025 02:59:10.765] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3565 Y: -51 Z: -2672
+[02Jun2025 02:59:27.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:60761] logged in with entity id 293021 at (3482.438002905074, -41.0, -2579.605596936244)
+[02Jun2025 02:59:27.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[02Jun2025 02:59:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to 3565.500000, -51.000000, -2672.500000]
