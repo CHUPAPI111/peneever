@@ -4531,6 +4531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-02 00:35:56 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
     "criteria": {
       "has_warden_upgrade_smithing_template": "2025-06-01 23:57:50 +0000"
@@ -4612,6 +4618,12 @@
   "deeperdarker:recipes/combat/warden_helmet_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-02 00:36:26 +0000"
     },
     "done": true
   },
