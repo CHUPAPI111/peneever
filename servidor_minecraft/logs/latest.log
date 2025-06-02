@@ -34,3 +34,52 @@
 [02Jun2025 01:17:23.792] [Worker-Main-193/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
 [02Jun2025 01:18:33.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved wrongly!
 [02Jun2025 01:19:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DodiWo> xaero-waypoint:coso:C:3575:114:-2308:10:false:0:Internal-overworld-waypoints
+[02Jun2025 01:20:05.566] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[02Jun2025 01:20:05.627] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[02Jun2025 01:20:05.628] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[02Jun2025 01:20:07.467] [Worker-Main-201/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[02Jun2025 01:20:07.467] [Worker-Main-201/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[02Jun2025 01:20:08.099] [Worker-Main-186/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[02Jun2025 01:20:08.100] [Worker-Main-186/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[02Jun2025 01:20:08.106] [Worker-Main-186/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[02Jun2025 01:20:09.950] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=-6, z=458}
+[02Jun2025 01:20:09.951] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=182, y=-6, z=460}
+[02Jun2025 01:20:09.951] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-6, z=458}
+[02Jun2025 01:20:15.979] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=99, z=1251}
+[02Jun2025 01:20:15.979] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=101, z=1251}
+[02Jun2025 01:20:15.979] [Worker-Main-198/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=385, y=100, z=1251}
+[02Jun2025 01:20:18.678] [Worker-Main-185/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[02Jun2025 01:20:22.424] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=101, z=385}
+[02Jun2025 01:20:22.441] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=101, z=385}
+[02Jun2025 01:21:04.420] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[02Jun2025 01:22:09.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[02Jun2025 01:22:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[02Jun2025 01:24:03.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:51098] logged in with entity id 189204 at (3364.699999988079, -28.0, -2543.051450175425)
+[02Jun2025 01:24:03.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[02Jun2025 01:25:24.347] [Worker-Main-178/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[02Jun2025 01:25:24.347] [Worker-Main-178/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[02Jun2025 01:32:34.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3490, y=-21, z=-2550} BlockPos{x=3489, y=-20, z=-2550}
+[02Jun2025 01:32:34.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3490, y=-21, z=-2550} BlockPos{x=3489, y=-20, z=-2550}
+[02Jun2025 01:32:34.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3490, y=-21, z=-2550} BlockPos{x=3489, y=-20, z=-2550}
+[02Jun2025 01:32:51.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3497, y=-14, z=-2547} BlockPos{x=3496, y=-14, z=-2546}
+[02Jun2025 01:32:59.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3502, y=-19, z=-2540} BlockPos{x=3503, y=-19, z=-2539}
+[02Jun2025 01:32:59.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3502, y=-19, z=-2540} BlockPos{x=3503, y=-19, z=-2539}
+[02Jun2025 01:32:59.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3502, y=-19, z=-2540} BlockPos{x=3503, y=-19, z=-2539}
+[02Jun2025 01:32:59.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3502, y=-19, z=-2540} BlockPos{x=3503, y=-19, z=-2539}
+[02Jun2025 01:36:44.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[02Jun2025 01:37:04.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 01:37:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 01:37:08.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:59500] logged in with entity id 197360 at (3506.412518656031, -35.0, -2559.844846480208)
+[02Jun2025 01:37:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[02Jun2025 01:37:19.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 01:37:19.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 01:37:22.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:59517] logged in with entity id 197423 at (3505.9860689016473, -35.0, -2559.282926150673)
+[02Jun2025 01:37:22.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[02Jun2025 01:38:14.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[02Jun2025 01:38:14.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[02Jun2025 01:38:17.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:59542] logged in with entity id 197585 at (3502.4517180215003, -48.0, -2558.699999988079)
+[02Jun2025 01:38:17.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[02Jun2025 01:39:17.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[02Jun2025 01:42:00.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[02Jun2025 01:46:16.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!
+[02Jun2025 01:49:16.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved wrongly!

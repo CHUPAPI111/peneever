@@ -4532,39 +4532,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-06-02 00:35:56 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
-    "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-06-01 23:57:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-06-01 23:59:22 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
     "criteria": {
       "has_sculk_stone": "2025-06-01 22:15:09 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_leggings_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_sword_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
     },
     "done": true
   },
@@ -4580,9 +4550,39 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
     "criteria": {
-      "used_totem": "2025-06-02 01:14:53 +0000"
+      "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-01 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
     },
     "done": true
   },
@@ -4604,21 +4604,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
-    "criteria": {
-      "has_sculk_stone": "2025-06-01 22:15:09 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/tools/warden_hoe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-06-02 00:51:31 +0000"
     },
     "done": true
   },
@@ -4634,27 +4622,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-06-02 00:36:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-06-01 23:50:55 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:57:49 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/super_sonic": {
-    "criteria": {
-      "fly": "2025-06-02 01:16:58 +0000"
     },
     "done": true
   },
@@ -4664,15 +4634,57 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
     "criteria": {
-      "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+      "has_warden_upgrade_smithing_template": "2025-06-01 23:57:50 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_sculk_stone": "2025-06-01 22:15:09 +0000"
+      "has_diamond_block": "2025-06-01 23:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-02 00:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-02 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-02 00:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-02 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-06-02 01:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-02 01:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-02 01:44:51 +0000"
     },
     "done": true
   },

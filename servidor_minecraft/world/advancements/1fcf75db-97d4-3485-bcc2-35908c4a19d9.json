@@ -5151,39 +5151,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2025-06-02 01:16:52 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-06-02 00:44:29 +0000"
-    },
-    "done": false
-  },
-  "friendsandfoes:adventure/kill_iceologer": {
-    "criteria": {
-      "killed_iceologer": "2025-06-02 00:05:52 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/tools/warden_shovel_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-02 00:40:59 +0000"
     },
     "done": true
   },
@@ -5217,15 +5193,87 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-06-02 00:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-06-02 00:40:34 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/tools/warden_axe_smithing": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_reinforced_echo_shard": "2025-06-01 23:51:47 +0000"
+      "has_blue_orchid": "2025-06-02 00:40:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-06-02 00:44:29 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-06-02 01:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-02 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-02 01:39:59 +0000"
     },
     "done": true
   },
