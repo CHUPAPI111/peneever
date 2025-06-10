@@ -320,3 +320,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 04:12:01.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [10Jun2025 04:12:36.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo moved too quickly! -4.881620407104492E-5,40.0,0.0
 [10Jun2025 04:14:28.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to bhp240]
+[10Jun2025 04:16:31.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[10Jun2025 04:16:49.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3345ms or 66 ticks behind
+[10Jun2025 04:17:23.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved too quickly! -0.04711284393101778,-10.552241243705595,0.019594901750338067
+[10Jun2025 04:17:36.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68785, l='ServerLevel[world]', x=1752.88, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[10Jun2025 04:20:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jun2025 04:20:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deop<--[HERE]
+[10Jun2025 04:20:43.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo no longer a server operator
+[10Jun2025 04:23:18.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Jun2025 04:23:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player is not an operator
