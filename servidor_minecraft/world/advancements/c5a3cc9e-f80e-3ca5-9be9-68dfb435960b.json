@@ -6143,5 +6143,11 @@
     },
     "done": true
   },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2025-06-10 03:53:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
