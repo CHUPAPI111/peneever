@@ -4988,6 +4988,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2025-06-10 04:31:05 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs": {
     "criteria": {
       "has_cut_sculk_stone": "2025-06-10 03:58:03 +0000"

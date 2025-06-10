@@ -329,3 +329,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 04:20:43.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo no longer a server operator
 [10Jun2025 04:23:18.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [10Jun2025 04:23:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player is not an operator
+[10Jun2025 04:29:16.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Corrupted Enderman'/83480, l='ServerLevel[world]', x=1824.55, y=74.38, z=951.08] died: Corrupted Enderman was killed whilst fighting amaroxplay
+[10Jun2025 04:31:05.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Remote Storage]
+[10Jun2025 04:34:23.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/65887, l='ServerLevel[world]', x=1611.88, y=75.00, z=737.84] died, message: 'Fisherman was slain by Zombie'
+[10Jun2025 04:35:36.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
