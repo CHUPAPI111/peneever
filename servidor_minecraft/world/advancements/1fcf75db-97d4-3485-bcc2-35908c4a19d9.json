@@ -5435,21 +5435,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs_from_cut_sculk_stone_stonecutting": {
     "criteria": {
-      "has_bricks": "2025-06-10 04:35:44 +0000"
+      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall_from_cut_sculk_stone_stonecutting": {
     "criteria": {
-      "has_bricks": "2025-06-10 04:35:44 +0000"
+      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_sculk_stone_tiles_stonecutting": {
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab": {
     "criteria": {
-      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
     },
     "done": true
   },
@@ -5465,12 +5483,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs_from_cut_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-06-10 03:58:14 +0000"
@@ -5483,75 +5495,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-10 03:58:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-10 04:35:44 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall_from_cut_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-10 04:35:44 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs": {
-    "criteria": {
-      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab": {
-    "criteria": {
-      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-10 04:51:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-10 03:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
     },
     "done": true
   },
@@ -5567,27 +5519,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-10 03:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-06-10 04:35:44 +0000"
     },
     "done": true
   },
@@ -5597,75 +5531,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall": {
-    "criteria": {
-      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_sculk_stone_tiles_stonecutting": {
-    "criteria": {
-      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs": {
-    "criteria": {
-      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-10 03:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-10 04:51:03 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab": {
-    "criteria": {
-      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-10 04:35:44 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_sculk_stone_tiles_stonecutting": {
-    "criteria": {
-      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab_from_cut_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
     },
     "done": true
   },
@@ -5681,12 +5549,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-10 04:35:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-10 03:58:14 +0000"
@@ -5699,9 +5561,147 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall": {
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_sculk_stone_tiles_stonecutting": {
     "criteria": {
-      "has_cut_sculk_stone": "2025-06-10 03:56:42 +0000"
+      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs": {
+    "criteria": {
+      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall": {
+    "criteria": {
+      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_sculk_stone_tiles_stonecutting": {
+    "criteria": {
+      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab": {
+    "criteria": {
+      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_sculk_stone_tiles_stonecutting": {
+    "criteria": {
+      "has_sculk_stone_tiles": "2025-06-10 04:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-06-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-06-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-06-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-10 04:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-10 04:51:03 +0000"
     },
     "done": true
   },
