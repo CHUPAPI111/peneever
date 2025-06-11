@@ -154,3 +154,14 @@
 [11Jun2025 01:08:58.436] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ed56498[id=<null>,name=DodiWo,properties={},legacy=false] (/100.79.208.54:50793) lost connection: Disconnected
 [11Jun2025 01:09:11.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:50796] logged in with entity id 122015 at (1965.2996724608988, 74.0, 1033.3492575192643)
 [11Jun2025 01:09:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[11Jun2025 01:15:09.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ed495c4[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:9144) lost connection: Disconnected
+[11Jun2025 01:15:39.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@575c3ebc[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:9160) lost connection: Disconnected
+[11Jun2025 01:16:00.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b6c74b5[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:9203) lost connection: Disconnected
+[11Jun2025 01:16:15.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e2f7f49[id=<null>,name=bhp240,properties={},legacy=false] (/100.120.146.32:9234) lost connection: Disconnected
+[11Jun2025 01:16:21.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:9261] logged in with entity id 133693 at (3500.031028368918, -40.0, -2583.469393733678)
+[11Jun2025 01:16:21.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[11Jun2025 01:17:07.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[11Jun2025 01:17:13.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported DodiWo to amaroxplay
+[11Jun2025 01:21:14.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
+[11Jun2025 01:21:19.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Spectator Mode]
+[11Jun2025 01:21:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Survival Mode]
