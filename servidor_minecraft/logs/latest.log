@@ -197,3 +197,6 @@
 [11Jun2025 02:21:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
 [11Jun2025 02:22:55.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to 1890.500000, 75.500000, 870.500000]
 [11Jun2025 02:23:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported 3 entities to DodiWo]
+[11Jun2025 02:26:27.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[11Jun2025 02:26:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[11Jun2025 02:32:44.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay has made the advancement [Noise Complaint]
