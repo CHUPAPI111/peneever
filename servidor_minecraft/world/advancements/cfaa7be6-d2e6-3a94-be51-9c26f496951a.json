@@ -5180,5 +5180,11 @@
     },
     "done": true
   },
+  "deeperdarker:main/obtain_sonorous_staff": {
+    "criteria": {
+      "sonorous_staff": "2025-06-11 01:28:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
