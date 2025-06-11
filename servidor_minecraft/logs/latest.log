@@ -179,3 +179,21 @@
 [11Jun2025 01:56:13.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:50975] logged in with entity id 189169 at (3500.7154557186177, -51.0, -2570.699999988079)
 [11Jun2025 01:56:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
 [11Jun2025 02:01:31.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has reached the goal [You Need a Mint]
+[11Jun2025 02:16:37.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay was obliterated by a sonically-charged shriek
+[11Jun2025 02:16:37.742] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for amaroxplay with unique ID travelersbackpack.spider_11.06.2025-02.16.37.dat
+[11Jun2025 02:16:37.744] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3496 Y: -50 Z: -2575
+[11Jun2025 02:16:37.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[11Jun2025 02:16:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[11Jun2025 02:16:44.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[11Jun2025 02:16:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[11Jun2025 02:16:47.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:55376] logged in with entity id 215151 at (3502.354019724396, -50.878703159460805, -2571.612720738821)
+[11Jun2025 02:16:47.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[11Jun2025 02:16:52.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:51052] logged in with entity id 215971 at (3493.300000011921, -50.0, -2549.383379997796)
+[11Jun2025 02:16:52.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[11Jun2025 02:17:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported amaroxplay to DodiWo]
+[11Jun2025 02:19:30.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[11Jun2025 02:19:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[11Jun2025 02:21:03.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:55492] logged in with entity id 219306 at (3502.1727227231904, -51.0, -2565.935511985817)
+[11Jun2025 02:21:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[11Jun2025 02:22:55.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to 1890.500000, 75.500000, 870.500000]
+[11Jun2025 02:23:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported 3 entities to DodiWo]
