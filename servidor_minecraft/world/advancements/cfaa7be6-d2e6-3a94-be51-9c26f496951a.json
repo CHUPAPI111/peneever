@@ -5186,5 +5186,17 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-11 02:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-11 02:01:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
