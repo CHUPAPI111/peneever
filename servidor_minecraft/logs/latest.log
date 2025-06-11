@@ -165,3 +165,9 @@
 [11Jun2025 01:21:14.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DodiWo a server operator
 [11Jun2025 01:21:19.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Spectator Mode]
 [11Jun2025 01:21:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Set own game mode to Survival Mode]
+[11Jun2025 01:27:59.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amaroxplay> xaero-waypoint:Aldea principal:A:1890:75:870:5:false:0:Internal-overworld-waypoints
+[11Jun2025 01:28:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to 1890.500000, 75.500000, 870.500000]
+[11Jun2025 01:28:55.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Noise Complaint]
+[11Jun2025 01:29:18.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11Jun2025 01:31:12.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Jun2025 01:31:40.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
