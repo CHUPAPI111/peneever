@@ -69,6 +69,8 @@
       "minecraft:frozen_river": "2025-05-09 18:27:36 +0000",
       "minecraft:sunflower_plains": "2025-04-30 00:31:37 +0000",
       "minecraft:birch_forest": "2025-05-27 21:25:19 +0000",
+      "minecraft:wooded_badlands": "2025-06-12 02:31:21 +0000",
+      "minecraft:badlands": "2025-06-12 02:31:17 +0000",
       "minecraft:savanna_plateau": "2025-04-30 00:52:39 +0000",
       "minecraft:beach": "2025-05-01 16:09:25 +0000",
       "minecraft:dark_forest": "2025-05-01 02:43:29 +0000",
@@ -90,6 +92,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-04-30 00:08:20 +0000",
       "minecraft:snowy_beach": "2025-05-09 18:25:43 +0000",
       "minecraft:windswept_savanna": "2025-05-09 19:58:48 +0000",
+      "minecraft:warm_ocean": "2025-06-12 02:31:15 +0000",
       "minecraft:frozen_peaks": "2025-06-12 02:27:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-30 00:03:48 +0000",
       "minecraft:deep_dark": "2025-05-30 03:07:08 +0000",
@@ -6265,6 +6268,78 @@
       "warden_armor": "2025-06-11 02:38:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-12 02:36:19 +0000"
+    },
+    "done": false
   },
   "cataclysm:find_sunken_city": {
     "criteria": {
