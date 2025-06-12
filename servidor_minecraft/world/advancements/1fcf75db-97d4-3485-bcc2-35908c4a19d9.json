@@ -5730,5 +5730,23 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-06-12 02:07:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-12 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-06-12 02:00:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
