@@ -491,3 +491,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 23:22:30.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 48595ms or 971 ticks behind
 [14Jun2025 23:23:38.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52628ms or 1052 ticks behind
 [14Jun2025 23:24:42.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49267ms or 985 ticks behind
+[14Jun2025 23:25:39.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42436ms or 848 ticks behind
+[14Jun2025 23:26:07.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12792ms or 255 ticks behind
