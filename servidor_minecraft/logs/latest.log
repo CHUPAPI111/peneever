@@ -510,3 +510,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 23:41:42.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5537ms or 110 ticks behind
 [14Jun2025 23:42:07.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
 [14Jun2025 23:42:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
+[14Jun2025 23:50:27.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[14Jun2025 23:50:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[14Jun2025 23:50:42.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:52098] logged in with entity id 283989 at (1790.7745207424973, 67.875, 910.1441641678473)
+[14Jun2025 23:50:42.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
