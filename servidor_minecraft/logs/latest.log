@@ -493,3 +493,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 23:24:42.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49267ms or 985 ticks behind
 [14Jun2025 23:25:39.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42436ms or 848 ticks behind
 [14Jun2025 23:26:07.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12792ms or 255 ticks behind
+[14Jun2025 23:38:01.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[14Jun2025 23:38:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[14Jun2025 23:38:08.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:51973] logged in with entity id 264261 at (1870.5, 65.5625, 851.5)
+[14Jun2025 23:38:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[14Jun2025 23:38:29.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[14Jun2025 23:38:29.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[14Jun2025 23:38:39.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:51981] logged in with entity id 264297 at (1870.5, 65.5625, 851.5)
+[14Jun2025 23:38:39.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[14Jun2025 23:39:33.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Timed out
+[14Jun2025 23:39:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[14Jun2025 23:39:55.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79cd4a9e[id=<null>,name=DodiWo,properties={},legacy=false] (/100.79.208.54:51991) lost connection: Disconnected
+[14Jun2025 23:39:59.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:52002] logged in with entity id 264452 at (1870.5, 65.5625, 851.5)
+[14Jun2025 23:39:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[14Jun2025 23:41:22.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[14Jun2025 23:41:42.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5537ms or 110 ticks behind
+[14Jun2025 23:42:07.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay lost connection: Disconnected
+[14Jun2025 23:42:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay left the game
