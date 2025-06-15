@@ -6094,5 +6094,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast_smithing": {
+    "criteria": {
+      "has_ghast": "2025-06-15 22:55:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
