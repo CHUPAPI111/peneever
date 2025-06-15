@@ -295,3 +295,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 19:53:19.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/243026, l='ServerLevel[world]', x=1752.88, y=-256.00, z=818.78] died, message: 'Villager was killed'
 [15Jun2025 20:51:45.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/328925, l='ServerLevel[world]', x=1752.88, y=-256.00, z=818.78] died, message: 'Villager was killed'
 [15Jun2025 21:09:45.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343674, l='ServerLevel[world]', x=1752.88, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[15Jun2025 21:32:33.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amaroxplay[/100.113.133.4:62205] logged in with entity id 388218 at (1791.4274216368924, 67.875, 908.1553268798194)
+[15Jun2025 21:32:33.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amaroxplay joined the game
+[15Jun2025 21:33:36.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/388432, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[15Jun2025 21:35:51.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15Jun2025 21:35:52.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/390799, l='ServerLevel[world]', x=148.54, y=33.00, z=112.74] died: Toxic Slime fell from a high place
+[15Jun2025 21:36:13.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7938ms or 158 ticks behind
+[15Jun2025 21:36:41.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/390798, l='ServerLevel[world]', x=148.64, y=30.00, z=103.30] died: Toxic Slime fell from a high place
+[15Jun2025 21:36:44.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15452ms or 309 ticks behind
