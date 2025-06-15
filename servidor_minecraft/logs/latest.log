@@ -288,3 +288,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 17:06:17.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:50497] logged in with entity id 12681 at (1757.9548784279004, 71.0, 806.7664954543568)
 [15Jun2025 17:06:17.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
 [15Jun2025 17:06:25.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7505ms or 150 ticks behind
+[15Jun2025 17:53:45.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79957, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
