@@ -409,3 +409,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 22:18:03.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a left the game
 [15Jun2025 22:37:36.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [15Jun2025 22:37:54.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[15Jun2025 22:38:56.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15Jun2025 22:40:21.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! 2.637165974629852,-1.9205678027765885,-18.310567478529947
+[15Jun2025 22:41:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported DodiWo to 1755.500000, 78.500000, 808.500000]
+[15Jun2025 22:41:51.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amaroxplay moved too quickly! -18.68965177262237,-1.8997526476635471,2.522527376913331
+[15Jun2025 22:44:01.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[15Jun2025 22:44:01.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
+[15Jun2025 22:44:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server me cago me meo me tiro un peo
