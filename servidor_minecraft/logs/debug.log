@@ -3671,3 +3671,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 22:17:53.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
 [15Jun2025 22:18:03.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucas_ull0a lost connection: Disconnected
 [15Jun2025 22:18:03.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a left the game
+[15Jun2025 22:19:54.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:19:54.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 22:21:28.835] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 13
+[15Jun2025 22:21:28.835] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1519befa, b=36, e=44}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1519befa, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1519befa, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@3430475e=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@3430475e, c=net.minecraft.world.inventory.InventoryMenu@1519befa, b=0, e=0}, net.minecraft.world.inventory.TransientCraftingContainer@3a73f15c=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@3a73f15c, c=net.minecraft.world.inventory.InventoryMenu@1519befa, b=1, e=4}}
+[15Jun2025 22:21:28.835] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1519befa, b=9, e=35}
+[15Jun2025 22:24:54.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 22:24:54.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
