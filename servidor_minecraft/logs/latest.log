@@ -318,3 +318,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 21:42:37.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/398159, l='ServerLevel[world]', x=72.79, y=81.00, z=19.29] died: Toxic Slime fell from a high place
 [15Jun2025 21:42:59.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37566ms or 751 ticks behind
 [15Jun2025 21:43:18.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[15Jun2025 21:47:29.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucas_ull0a[/100.79.246.48:53262] logged in with entity id 424926 at (-70.5, 96.0, -281.5)
+[15Jun2025 21:47:29.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a joined the game
+[15Jun2025 21:48:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DodiWo: Teleported lucas_ull0a to DodiWo]
+[15Jun2025 21:49:34.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a was slain by DodiWo
+[15Jun2025 21:49:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a was slain by amaroxplay
+[15Jun2025 21:49:52.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has completed the challenge [Cover Me with Sculk]
+[15Jun2025 21:50:36.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/426692, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[15Jun2025 21:50:38.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has made the advancement [Acquire Hardware]
+[15Jun2025 21:50:47.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has made the advancement [Suit Up]
+[15Jun2025 21:51:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has made the advancement [Isn't It Iron Pick]
+[15Jun2025 21:52:21.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[15Jun2025 21:52:53.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Jun2025 21:53:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has made the advancement [Monster Hunter]
+[15Jun2025 21:54:15.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[15Jun2025 21:55:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has made the advancement [Not Today, Thank You]
+[15Jun2025 21:55:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a was shot by Skeleton
+[15Jun2025 21:56:09.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Jun2025 21:56:26.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[15Jun2025 21:56:51.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15Jun2025 21:57:08.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[15Jun2025 21:57:16.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a has made the advancement [Sweet Dreams]
+[15Jun2025 21:57:26.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
