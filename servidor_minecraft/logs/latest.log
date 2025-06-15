@@ -407,3 +407,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jun2025 22:17:53.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
 [15Jun2025 22:18:03.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucas_ull0a lost connection: Disconnected
 [15Jun2025 22:18:03.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucas_ull0a left the game
+[15Jun2025 22:37:36.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[15Jun2025 22:37:54.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
