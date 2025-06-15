@@ -16,3 +16,5 @@
 [15Jun2025 00:05:58.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16199ms or 323 ticks behind
 [15Jun2025 00:06:35.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22433ms or 448 ticks behind
 [15Jun2025 00:07:14.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24256ms or 485 ticks behind
+[15Jun2025 00:24:47.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DodiWo lost connection: Disconnected
+[15Jun2025 00:24:47.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo left the game
