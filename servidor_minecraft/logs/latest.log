@@ -325,3 +325,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 04:07:35.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [16Jun2025 04:08:24.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [16Jun2025 04:08:45.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Jun2025 04:09:25.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Jun2025 04:09:43.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[16Jun2025 04:10:01.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[16Jun2025 04:10:16.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Wither Skeleton Knight'/25434, l='ServerLevel[world]', x=-6477.87, y=90.00, z=-1581.48] died: Wither Skeleton Knight was slain by bhp240
+[16Jun2025 04:10:28.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11191ms or 223 ticks behind
+[16Jun2025 04:10:47.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[16Jun2025 04:11:13.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[16Jun2025 04:11:53.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Jun2025 04:13:24.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Jun2025 04:13:37.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DodiWo[/100.79.208.54:52987] logged in with entity id 44169 at (1757.141441123803, 71.0, 807.7393353891712)
+[16Jun2025 04:13:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo joined the game
+[16Jun2025 04:13:45.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6051ms or 121 ticks behind
+[16Jun2025 04:14:04.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
+[16Jun2025 04:14:29.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9822ms or 196 ticks behind
+[16Jun2025 04:14:58.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13903ms or 278 ticks behind
+[16Jun2025 04:15:24.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/47502, l='ServerLevel[world]', x=-5959.52, y=57.00, z=-1600.48] died: Village Guard was slain by bhp240
+[16Jun2025 04:15:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 has reached the goal [Piglin Pillage]
+[16Jun2025 04:15:27.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14842ms or 296 ticks behind
+[16Jun2025 04:15:30.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/47610, l='ServerLevel[world]', x=-5946.22, y=57.00, z=-1588.60] died: Piglin Civilian suffocated in a wall
+[16Jun2025 04:15:39.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/47611, l='ServerLevel[world]', x=-5948.52, y=57.00, z=-1587.52] died: Piglin Civilian was slain by bhp240
+[16Jun2025 04:15:49.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/47600, l='ServerLevel[world]', x=-5948.36, y=57.00, z=-1574.30] died: Piglin Civilian was slain by bhp240
+[16Jun2025 04:15:59.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16547ms or 330 ticks behind
+[16Jun2025 04:16:28.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48194, l='ServerLevel[world]', x=1753.25, y=-256.00, z=818.78] died, message: 'Villager was killed'
+[16Jun2025 04:16:32.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18090ms or 361 ticks behind
+[16Jun2025 04:17:06.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19004ms or 380 ticks behind
+[16Jun2025 04:17:34.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 lost connection: Disconnected
+[16Jun2025 04:17:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 left the game
+[16Jun2025 04:17:38.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16709ms or 334 ticks behind
+[16Jun2025 04:18:03.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bhp240[/100.120.146.32:1876] logged in with entity id 49146 at (-5838.001714024997, 36.0, -1635.4332810899273)
+[16Jun2025 04:18:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bhp240 joined the game
+[16Jun2025 04:18:04.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11021ms or 220 ticks behind
+[16Jun2025 04:18:34.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15488ms or 309 ticks behind
+[16Jun2025 04:19:07.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18179ms or 363 ticks behind
+[16Jun2025 04:19:33.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bhp240 moved wrongly!
+[16Jun2025 04:19:37.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14799ms or 295 ticks behind
+[16Jun2025 04:20:09.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16523ms or 330 ticks behind
+[16Jun2025 04:20:40.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16412ms or 328 ticks behind
+[16Jun2025 04:21:11.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15795ms or 315 ticks behind
