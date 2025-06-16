@@ -391,3 +391,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 04:30:55.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12324ms or 246 ticks behind
 [16Jun2025 04:31:04.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DodiWo has made the advancement [Portable Storage]
 [16Jun2025 04:31:23.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13047ms or 260 ticks behind
+[16Jun2025 04:31:51.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12801ms or 256 ticks behind
+[16Jun2025 04:32:21.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14729ms or 294 ticks behind
+[16Jun2025 04:32:48.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12645ms or 252 ticks behind
+[16Jun2025 04:33:08.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/44991, l='ServerLevel[world]', x=1880.76, y=65.00, z=854.04] was struck by lightning LightningBolt['Lightning Bolt'/74244, l='ServerLevel[world]', x=1880.50, y=65.00, z=854.50].
+[16Jun2025 04:33:08.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/45026, l='ServerLevel[world]', x=1877.30, y=65.88, z=854.70] was struck by lightning LightningBolt['Lightning Bolt'/74244, l='ServerLevel[world]', x=1880.50, y=65.00, z=854.50].
+[16Jun2025 04:33:08.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/45022, l='ServerLevel[world]', x=1877.22, y=65.00, z=853.30] was struck by lightning LightningBolt['Lightning Bolt'/74244, l='ServerLevel[world]', x=1880.50, y=65.00, z=854.50].
+[16Jun2025 04:33:08.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/45029, l='ServerLevel[world]', x=1880.41, y=65.00, z=851.21] was struck by lightning LightningBolt['Lightning Bolt'/74244, l='ServerLevel[world]', x=1880.50, y=65.00, z=854.50].
+[16Jun2025 04:33:16.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12504ms or 250 ticks behind
+[16Jun2025 04:33:44.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12961ms or 259 ticks behind
+[16Jun2025 04:34:13.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13804ms or 276 ticks behind
+[16Jun2025 04:34:41.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13127ms or 262 ticks behind
+[16Jun2025 04:35:08.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12467ms or 249 ticks behind
+[16Jun2025 04:35:36.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12384ms or 247 ticks behind
+[16Jun2025 04:36:04.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13179ms or 263 ticks behind
+[16Jun2025 04:36:31.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12589ms or 251 ticks behind
+[16Jun2025 04:36:58.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12185ms or 243 ticks behind
+[16Jun2025 04:37:26.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12336ms or 246 ticks behind
+[16Jun2025 04:37:54.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12979ms or 259 ticks behind
+[16Jun2025 04:38:22.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13293ms or 265 ticks behind
+[16Jun2025 04:38:51.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13745ms or 274 ticks behind
+[16Jun2025 04:39:19.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12994ms or 259 ticks behind
+[16Jun2025 04:39:46.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12379ms or 247 ticks behind
+[16Jun2025 04:40:15.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14329ms or 286 ticks behind
+[16Jun2025 04:40:43.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12387ms or 247 ticks behind
+[16Jun2025 04:41:10.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12570ms or 251 ticks behind
+[16Jun2025 04:41:37.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11661ms or 233 ticks behind
+[16Jun2025 04:42:05.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12896ms or 257 ticks behind

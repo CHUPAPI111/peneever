@@ -5751,5 +5751,11 @@
     },
     "done": true
   },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2025-06-16 04:31:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
