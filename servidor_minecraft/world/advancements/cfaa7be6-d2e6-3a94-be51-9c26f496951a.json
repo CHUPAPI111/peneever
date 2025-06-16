@@ -5757,6 +5757,12 @@
     },
     "done": true
   },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2025-06-16 05:38:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-16 05:04:59 +0000"
