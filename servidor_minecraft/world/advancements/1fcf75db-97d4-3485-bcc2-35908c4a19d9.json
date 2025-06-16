@@ -6100,11 +6100,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
-      "requirement": "2025-06-16 04:47:05 +0000"
+      "has_any_ingredient": "2025-06-16 04:49:14 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-16 04:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-16 04:49:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
